@@ -1,0 +1,582 @@
+{'name': 'Boston Bruins', 'year': 1990, 'wins': 44, 'losses': 24, 'ot-losses': 0, 'win%': 0.55, 'gf': 299, 'ga': 264, 'gd': 35}
+{'name': 'Buffalo Sabres', 'year': 1990, 'wins': 31, 'losses': 30, 'ot-losses': 0, 'win%': 0.388, 'gf': 292, 'ga': 278, 'gd': 14}
+{'name': 'Calgary Flames', 'year': 1990, 'wins': 46, 'losses': 26, 'ot-losses': 0, 'win%': 0.575, 'gf': 344, 'ga': 263, 'gd': 81}
+{'name': 'Chicago Blackhawks', 'year': 1990, 'wins': 49, 'losses': 23, 'ot-losses': 0, 'win%': 0.613, 'gf': 284, 'ga': 211, 'gd': 73}
+{'name': 'Detroit Red Wings', 'year': 1990, 'wins': 34, 'losses': 38, 'ot-losses': 0, 'win%': 0.425, 'gf': 273, 'ga': 298, 'gd': -25}
+{'name': 'Edmonton Oilers', 'year': 1990, 'wins': 37, 'losses': 37, 'ot-losses': 0, 'win%': 0.463, 'gf': 272, 'ga': 272, 'gd': 0}
+{'name': 'Hartford Whalers', 'year': 1990, 'wins': 31, 'losses': 38, 'ot-losses': 0, 'win%': 0.388, 'gf': 238, 'ga': 276, 'gd': -38}
+{'name': 'Los Angeles Kings', 'year': 1990, 'wins': 46, 'losses': 24, 'ot-losses': 0, 'win%': 0.575, 'gf': 340, 'ga': 254, 'gd': 86}
+{'name': 'Minnesota North Stars', 'year': 1990, 'wins': 27, 'losses': 39, 'ot-losses': 0, 'win%': 0.338, 'gf': 256, 'ga': 266, 'gd': -10}
+{'name': 'Montreal Canadiens', 'year': 1990, 'wins': 39, 'losses': 30, 'ot-losses': 0, 'win%': 0.487, 'gf': 273, 'ga': 249, 'gd': 24}
+{'name': 'New Jersey Devils', 'year': 1990, 'wins': 32, 'losses': 33, 'ot-losses': 0, 'win%': 0.4, 'gf': 272, 'ga': 264, 'gd': 8}
+{'name': 'New York Islanders', 'year': 1990, 'wins': 25, 'losses': 45, 'ot-losses': 0, 'win%': 0.312, 'gf': 223, 'ga': 290, 'gd': -67}
+{'name': 'New York Rangers', 'year': 1990, 'wins': 36, 'losses': 31, 'ot-losses': 0, 'win%': 0.45, 'gf': 297, 'ga': 265, 'gd': 32}
+{'name': 'Philadelphia Flyers', 'year': 1990, 'wins': 33, 'losses': 37, 'ot-losses': 0, 'win%': 0.412, 'gf': 252, 'ga': 267, 'gd': -15}
+{'name': 'Pittsburgh Penguins', 'year': 1990, 'wins': 41, 'losses': 33, 'ot-losses': 0, 'win%': 0.512, 'gf': 342, 'ga': 305, 'gd': 37}
+{'name': 'Quebec Nordiques', 'year': 1990, 'wins': 16, 'losses': 50, 'ot-losses': 0, 'win%': 0.2, 'gf': 236, 'ga': 354, 'gd': -118}
+{'name': 'St. Louis Blues', 'year': 1990, 'wins': 47, 'losses': 22, 'ot-losses': 0, 'win%': 0.588, 'gf': 310, 'ga': 250, 'gd': 60}
+{'name': 'Toronto Maple Leafs', 'year': 1990, 'wins': 23, 'losses': 46, 'ot-losses': 0, 'win%': 0.287, 'gf': 241, 'ga': 318, 'gd': -77}
+{'name': 'Vancouver Canucks', 'year': 1990, 'wins': 28, 'losses': 43, 'ot-losses': 0, 'win%': 0.35, 'gf': 243, 'ga': 315, 'gd': -72}
+{'name': 'Washington Capitals', 'year': 1990, 'wins': 37, 'losses': 36, 'ot-losses': 0, 'win%': 0.463, 'gf': 258, 'ga': 258, 'gd': 0}
+{'name': 'Winnipeg Jets', 'year': 1990, 'wins': 26, 'losses': 43, 'ot-losses': 0, 'win%': 0.325, 'gf': 260, 'ga': 288, 'gd': -28}
+{'name': 'Boston Bruins', 'year': 1991, 'wins': 36, 'losses': 32, 'ot-losses': 0, 'win%': 0.45, 'gf': 270, 'ga': 275, 'gd': -5}
+{'name': 'Buffalo Sabres', 'year': 1991, 'wins': 31, 'losses': 37, 'ot-losses': 0, 'win%': 0.388, 'gf': 289, 'ga': 299, 'gd': -10}
+{'name': 'Calgary Flames', 'year': 1991, 'wins': 31, 'losses': 37, 'ot-losses': 0, 'win%': 0.388, 'gf': 296, 'ga': 305, 'gd': -9}
+{'name': 'Chicago Blackhawks', 'year': 1991, 'wins': 36, 'losses': 29, 'ot-losses': 0, 'win%': 0.45, 'gf': 257, 'ga': 236, 'gd': 21}
+{'name': 'Detroit Red Wings', 'year': 1991, 'wins': 43, 'losses': 25, 'ot-losses': 0, 'win%': 0.537, 'gf': 320, 'ga': 256, 'gd': 64}
+{'name': 'Edmonton Oilers', 'year': 1991, 'wins': 36, 'losses': 34, 'ot-losses': 0, 'win%': 0.45, 'gf': 295, 'ga': 297, 'gd': -2}
+{'name': 'Hartford Whalers', 'year': 1991, 'wins': 26, 'losses': 41, 'ot-losses': 0, 'win%': 0.325, 'gf': 247, 'ga': 283, 'gd': -36}
+{'name': 'Los Angeles Kings', 'year': 1991, 'wins': 35, 'losses': 31, 'ot-losses': 0, 'win%': 0.438, 'gf': 287, 'ga': 296, 'gd': -9}
+{'name': 'Minnesota North Stars', 'year': 1991, 'wins': 32, 'losses': 42, 'ot-losses': 0, 'win%': 0.4, 'gf': 246, 'ga': 278, 'gd': -32}
+{'name': 'Montreal Canadiens', 'year': 1991, 'wins': 41, 'losses': 28, 'ot-losses': 0, 'win%': 0.512, 'gf': 267, 'ga': 207, 'gd': 60}
+{'name': 'New Jersey Devils', 'year': 1991, 'wins': 38, 'losses': 31, 'ot-losses': 0, 'win%': 0.475, 'gf': 289, 'ga': 259, 'gd': 30}
+{'name': 'New York Islanders', 'year': 1991, 'wins': 34, 'losses': 35, 'ot-losses': 0, 'win%': 0.425, 'gf': 291, 'ga': 299, 'gd': -8}
+{'name': 'New York Rangers', 'year': 1991, 'wins': 50, 'losses': 25, 'ot-losses': 0, 'win%': 0.625, 'gf': 321, 'ga': 246, 'gd': 75}
+{'name': 'Philadelphia Flyers', 'year': 1991, 'wins': 32, 'losses': 37, 'ot-losses': 0, 'win%': 0.4, 'gf': 252, 'ga': 273, 'gd': -21}
+{'name': 'Pittsburgh Penguins', 'year': 1991, 'wins': 39, 'losses': 32, 'ot-losses': 0, 'win%': 0.487, 'gf': 343, 'ga': 308, 'gd': 35}
+{'name': 'Quebec Nordiques', 'year': 1991, 'wins': 20, 'losses': 48, 'ot-losses': 0, 'win%': 0.25, 'gf': 255, 'ga': 318, 'gd': -63}
+{'name': 'San Jose Sharks', 'year': 1991, 'wins': 17, 'losses': 58, 'ot-losses': 0, 'win%': 0.212, 'gf': 219, 'ga': 359, 'gd': -140}
+{'name': 'St. Louis Blues', 'year': 1991, 'wins': 36, 'losses': 33, 'ot-losses': 0, 'win%': 0.45, 'gf': 279, 'ga': 266, 'gd': 13}
+{'name': 'Toronto Maple Leafs', 'year': 1991, 'wins': 30, 'losses': 43, 'ot-losses': 0, 'win%': 0.375, 'gf': 234, 'ga': 294, 'gd': -60}
+{'name': 'Vancouver Canucks', 'year': 1991, 'wins': 42, 'losses': 26, 'ot-losses': 0, 'win%': 0.525, 'gf': 285, 'ga': 250, 'gd': 35}
+{'name': 'Washington Capitals', 'year': 1991, 'wins': 45, 'losses': 27, 'ot-losses': 0, 'win%': 0.562, 'gf': 330, 'ga': 275, 'gd': 55}
+{'name': 'Winnipeg Jets', 'year': 1991, 'wins': 33, 'losses': 32, 'ot-losses': 0, 'win%': 0.412, 'gf': 251, 'ga': 244, 'gd': 7}
+{'name': 'Boston Bruins', 'year': 1992, 'wins': 51, 'losses': 26, 'ot-losses': 0, 'win%': 0.607, 'gf': 332, 'ga': 268, 'gd': 64}
+{'name': 'Buffalo Sabres', 'year': 1992, 'wins': 38, 'losses': 36, 'ot-losses': 0, 'win%': 0.452, 'gf': 335, 'ga': 297, 'gd': 38}
+{'name': 'Calgary Flames', 'year': 1992, 'wins': 43, 'losses': 30, 'ot-losses': 0, 'win%': 0.512, 'gf': 322, 'ga': 282, 'gd': 40}
+{'name': 'Chicago Blackhawks', 'year': 1992, 'wins': 47, 'losses': 25, 'ot-losses': 0, 'win%': 0.56, 'gf': 279, 'ga': 230, 'gd': 49}
+{'name': 'Detroit Red Wings', 'year': 1992, 'wins': 47, 'losses': 28, 'ot-losses': 0, 'win%': 0.56, 'gf': 369, 'ga': 280, 'gd': 89}
+{'name': 'Edmonton Oilers', 'year': 1992, 'wins': 26, 'losses': 50, 'ot-losses': 0, 'win%': 0.31, 'gf': 242, 'ga': 337, 'gd': -95}
+{'name': 'Hartford Whalers', 'year': 1992, 'wins': 26, 'losses': 52, 'ot-losses': 0, 'win%': 0.31, 'gf': 284, 'ga': 369, 'gd': -85}
+{'name': 'Los Angeles Kings', 'year': 1992, 'wins': 39, 'losses': 35, 'ot-losses': 0, 'win%': 0.464, 'gf': 338, 'ga': 340, 'gd': -2}
+{'name': 'Minnesota North Stars', 'year': 1992, 'wins': 36, 'losses': 38, 'ot-losses': 0, 'win%': 0.429, 'gf': 272, 'ga': 293, 'gd': -21}
+{'name': 'Montreal Canadiens', 'year': 1992, 'wins': 48, 'losses': 30, 'ot-losses': 0, 'win%': 0.571, 'gf': 326, 'ga': 280, 'gd': 46}
+{'name': 'New Jersey Devils', 'year': 1992, 'wins': 40, 'losses': 37, 'ot-losses': 0, 'win%': 0.476, 'gf': 308, 'ga': 299, 'gd': 9}
+{'name': 'New York Islanders', 'year': 1992, 'wins': 40, 'losses': 37, 'ot-losses': 0, 'win%': 0.476, 'gf': 335, 'ga': 297, 'gd': 38}
+{'name': 'New York Rangers', 'year': 1992, 'wins': 34, 'losses': 39, 'ot-losses': 0, 'win%': 0.405, 'gf': 304, 'ga': 308, 'gd': -4}
+{'name': 'Ottawa Senators', 'year': 1992, 'wins': 10, 'losses': 70, 'ot-losses': 0, 'win%': 0.119, 'gf': 202, 'ga': 395, 'gd': -193}
+{'name': 'Philadelphia Flyers', 'year': 1992, 'wins': 36, 'losses': 37, 'ot-losses': 0, 'win%': 0.429, 'gf': 319, 'ga': 319, 'gd': 0}
+{'name': 'Pittsburgh Penguins', 'year': 1992, 'wins': 56, 'losses': 21, 'ot-losses': 0, 'win%': 0.667, 'gf': 367, 'ga': 268, 'gd': 99}
+{'name': 'Quebec Nordiques', 'year': 1992, 'wins': 47, 'losses': 27, 'ot-losses': 0, 'win%': 0.56, 'gf': 351, 'ga': 300, 'gd': 51}
+{'name': 'San Jose Sharks', 'year': 1992, 'wins': 11, 'losses': 71, 'ot-losses': 0, 'win%': 0.131, 'gf': 218, 'ga': 414, 'gd': -196}
+{'name': 'St. Louis Blues', 'year': 1992, 'wins': 37, 'losses': 36, 'ot-losses': 0, 'win%': 0.44, 'gf': 282, 'ga': 278, 'gd': 4}
+{'name': 'Tampa Bay Lightning', 'year': 1992, 'wins': 23, 'losses': 54, 'ot-losses': 0, 'win%': 0.274, 'gf': 245, 'ga': 332, 'gd': -87}
+{'name': 'Toronto Maple Leafs', 'year': 1992, 'wins': 44, 'losses': 29, 'ot-losses': 0, 'win%': 0.524, 'gf': 288, 'ga': 241, 'gd': 47}
+{'name': 'Vancouver Canucks', 'year': 1992, 'wins': 46, 'losses': 29, 'ot-losses': 0, 'win%': 0.548, 'gf': 346, 'ga': 278, 'gd': 68}
+{'name': 'Washington Capitals', 'year': 1992, 'wins': 43, 'losses': 34, 'ot-losses': 0, 'win%': 0.512, 'gf': 325, 'ga': 286, 'gd': 39}
+{'name': 'Winnipeg Jets', 'year': 1992, 'wins': 40, 'losses': 37, 'ot-losses': 0, 'win%': 0.476, 'gf': 322, 'ga': 320, 'gd': 2}
+{'name': 'Mighty Ducks of Anaheim', 'year': 1993, 'wins': 33, 'losses': 46, 'ot-losses': 0, 'win%': 0.393, 'gf': 229, 'ga': 251, 'gd': -22}
+{'name': 'Boston Bruins', 'year': 1993, 'wins': 42, 'losses': 29, 'ot-losses': 0, 'win%': 0.5, 'gf': 289, 'ga': 252, 'gd': 37}
+{'name': 'Buffalo Sabres', 'year': 1993, 'wins': 43, 'losses': 32, 'ot-losses': 0, 'win%': 0.512, 'gf': 282, 'ga': 218, 'gd': 64}
+{'name': 'Calgary Flames', 'year': 1993, 'wins': 42, 'losses': 29, 'ot-losses': 0, 'win%': 0.5, 'gf': 302, 'ga': 256, 'gd': 46}
+{'name': 'Chicago Blackhawks', 'year': 1993, 'wins': 39, 'losses': 36, 'ot-losses': 0, 'win%': 0.464, 'gf': 254, 'ga': 240, 'gd': 14}
+{'name': 'Dallas Stars', 'year': 1993, 'wins': 42, 'losses': 29, 'ot-losses': 0, 'win%': 0.5, 'gf': 286, 'ga': 265, 'gd': 21}
+{'name': 'Detroit Red Wings', 'year': 1993, 'wins': 46, 'losses': 30, 'ot-losses': 0, 'win%': 0.548, 'gf': 356, 'ga': 275, 'gd': 81}
+{'name': 'Edmonton Oilers', 'year': 1993, 'wins': 25, 'losses': 45, 'ot-losses': 0, 'win%': 0.298, 'gf': 261, 'ga': 305, 'gd': -44}
+{'name': 'Florida Panthers', 'year': 1993, 'wins': 33, 'losses': 34, 'ot-losses': 0, 'win%': 0.393, 'gf': 233, 'ga': 233, 'gd': 0}
+{'name': 'Hartford Whalers', 'year': 1993, 'wins': 27, 'losses': 48, 'ot-losses': 0, 'win%': 0.321, 'gf': 227, 'ga': 288, 'gd': -61}
+{'name': 'Los Angeles Kings', 'year': 1993, 'wins': 27, 'losses': 45, 'ot-losses': 0, 'win%': 0.321, 'gf': 294, 'ga': 322, 'gd': -28}
+{'name': 'Montreal Canadiens', 'year': 1993, 'wins': 41, 'losses': 29, 'ot-losses': 0, 'win%': 0.488, 'gf': 283, 'ga': 248, 'gd': 35}
+{'name': 'New Jersey Devils', 'year': 1993, 'wins': 47, 'losses': 25, 'ot-losses': 0, 'win%': 0.56, 'gf': 306, 'ga': 220, 'gd': 86}
+{'name': 'New York Islanders', 'year': 1993, 'wins': 36, 'losses': 36, 'ot-losses': 0, 'win%': 0.429, 'gf': 282, 'ga': 264, 'gd': 18}
+{'name': 'New York Rangers', 'year': 1993, 'wins': 52, 'losses': 24, 'ot-losses': 0, 'win%': 0.619, 'gf': 299, 'ga': 231, 'gd': 68}
+{'name': 'Ottawa Senators', 'year': 1993, 'wins': 14, 'losses': 61, 'ot-losses': 0, 'win%': 0.167, 'gf': 201, 'ga': 397, 'gd': -196}
+{'name': 'Philadelphia Flyers', 'year': 1993, 'wins': 35, 'losses': 39, 'ot-losses': 0, 'win%': 0.417, 'gf': 294, 'ga': 314, 'gd': -20}
+{'name': 'Pittsburgh Penguins', 'year': 1993, 'wins': 44, 'losses': 27, 'ot-losses': 0, 'win%': 0.524, 'gf': 299, 'ga': 285, 'gd': 14}
+{'name': 'Quebec Nordiques', 'year': 1993, 'wins': 34, 'losses': 42, 'ot-losses': 0, 'win%': 0.405, 'gf': 277, 'ga': 292, 'gd': -15}
+{'name': 'San Jose Sharks', 'year': 1993, 'wins': 33, 'losses': 35, 'ot-losses': 0, 'win%': 0.393, 'gf': 252, 'ga': 265, 'gd': -13}
+{'name': 'St. Louis Blues', 'year': 1993, 'wins': 40, 'losses': 33, 'ot-losses': 0, 'win%': 0.476, 'gf': 270, 'ga': 283, 'gd': -13}
+{'name': 'Tampa Bay Lightning', 'year': 1993, 'wins': 30, 'losses': 43, 'ot-losses': 0, 'win%': 0.357, 'gf': 224, 'ga': 251, 'gd': -27}
+{'name': 'Toronto Maple Leafs', 'year': 1993, 'wins': 43, 'losses': 29, 'ot-losses': 0, 'win%': 0.512, 'gf': 280, 'ga': 243, 'gd': 37}
+{'name': 'Vancouver Canucks', 'year': 1993, 'wins': 41, 'losses': 40, 'ot-losses': 0, 'win%': 0.488, 'gf': 279, 'ga': 276, 'gd': 3}
+{'name': 'Washington Capitals', 'year': 1993, 'wins': 39, 'losses': 35, 'ot-losses': 0, 'win%': 0.464, 'gf': 277, 'ga': 263, 'gd': 14}
+{'name': 'Winnipeg Jets', 'year': 1993, 'wins': 24, 'losses': 51, 'ot-losses': 0, 'win%': 0.286, 'gf': 245, 'ga': 344, 'gd': -99}
+{'name': 'Mighty Ducks of Anaheim', 'year': 1994, 'wins': 16, 'losses': 27, 'ot-losses': 0, 'win%': 0.333, 'gf': 125, 'ga': 164, 'gd': -39}
+{'name': 'Boston Bruins', 'year': 1994, 'wins': 27, 'losses': 18, 'ot-losses': 0, 'win%': 0.562, 'gf': 150, 'ga': 127, 'gd': 23}
+{'name': 'Buffalo Sabres', 'year': 1994, 'wins': 22, 'losses': 19, 'ot-losses': 0, 'win%': 0.458, 'gf': 130, 'ga': 119, 'gd': 11}
+{'name': 'Calgary Flames', 'year': 1994, 'wins': 24, 'losses': 17, 'ot-losses': 0, 'win%': 0.5, 'gf': 163, 'ga': 135, 'gd': 28}
+{'name': 'Chicago Blackhawks', 'year': 1994, 'wins': 24, 'losses': 19, 'ot-losses': 0, 'win%': 0.5, 'gf': 156, 'ga': 115, 'gd': 41}
+{'name': 'Dallas Stars', 'year': 1994, 'wins': 17, 'losses': 23, 'ot-losses': 0, 'win%': 0.354, 'gf': 136, 'ga': 135, 'gd': 1}
+{'name': 'Detroit Red Wings', 'year': 1994, 'wins': 33, 'losses': 11, 'ot-losses': 0, 'win%': 0.688, 'gf': 180, 'ga': 117, 'gd': 63}
+{'name': 'Edmonton Oilers', 'year': 1994, 'wins': 17, 'losses': 27, 'ot-losses': 0, 'win%': 0.354, 'gf': 136, 'ga': 183, 'gd': -47}
+{'name': 'Florida Panthers', 'year': 1994, 'wins': 20, 'losses': 22, 'ot-losses': 0, 'win%': 0.417, 'gf': 115, 'ga': 127, 'gd': -12}
+{'name': 'Hartford Whalers', 'year': 1994, 'wins': 19, 'losses': 24, 'ot-losses': 0, 'win%': 0.396, 'gf': 127, 'ga': 141, 'gd': -14}
+{'name': 'Los Angeles Kings', 'year': 1994, 'wins': 16, 'losses': 23, 'ot-losses': 0, 'win%': 0.333, 'gf': 142, 'ga': 174, 'gd': -32}
+{'name': 'Montreal Canadiens', 'year': 1994, 'wins': 18, 'losses': 23, 'ot-losses': 0, 'win%': 0.375, 'gf': 125, 'ga': 148, 'gd': -23}
+{'name': 'New Jersey Devils', 'year': 1994, 'wins': 22, 'losses': 18, 'ot-losses': 0, 'win%': 0.458, 'gf': 136, 'ga': 121, 'gd': 15}
+{'name': 'New York Islanders', 'year': 1994, 'wins': 15, 'losses': 28, 'ot-losses': 0, 'win%': 0.312, 'gf': 126, 'ga': 158, 'gd': -32}
+{'name': 'New York Rangers', 'year': 1994, 'wins': 22, 'losses': 23, 'ot-losses': 0, 'win%': 0.458, 'gf': 139, 'ga': 134, 'gd': 5}
+{'name': 'Ottawa Senators', 'year': 1994, 'wins': 9, 'losses': 34, 'ot-losses': 0, 'win%': 0.188, 'gf': 117, 'ga': 174, 'gd': -57}
+{'name': 'Philadelphia Flyers', 'year': 1994, 'wins': 28, 'losses': 16, 'ot-losses': 0, 'win%': 0.583, 'gf': 150, 'ga': 132, 'gd': 18}
+{'name': 'Pittsburgh Penguins', 'year': 1994, 'wins': 29, 'losses': 16, 'ot-losses': 0, 'win%': 0.604, 'gf': 181, 'ga': 158, 'gd': 23}
+{'name': 'Quebec Nordiques', 'year': 1994, 'wins': 30, 'losses': 13, 'ot-losses': 0, 'win%': 0.625, 'gf': 185, 'ga': 134, 'gd': 51}
+{'name': 'San Jose Sharks', 'year': 1994, 'wins': 19, 'losses': 25, 'ot-losses': 0, 'win%': 0.396, 'gf': 129, 'ga': 161, 'gd': -32}
+{'name': 'St. Louis Blues', 'year': 1994, 'wins': 28, 'losses': 15, 'ot-losses': 0, 'win%': 0.583, 'gf': 178, 'ga': 135, 'gd': 43}
+{'name': 'Tampa Bay Lightning', 'year': 1994, 'wins': 17, 'losses': 28, 'ot-losses': 0, 'win%': 0.354, 'gf': 120, 'ga': 144, 'gd': -24}
+{'name': 'Toronto Maple Leafs', 'year': 1994, 'wins': 21, 'losses': 19, 'ot-losses': 0, 'win%': 0.438, 'gf': 135, 'ga': 146, 'gd': -11}
+{'name': 'Vancouver Canucks', 'year': 1994, 'wins': 18, 'losses': 18, 'ot-losses': 0, 'win%': 0.375, 'gf': 153, 'ga': 148, 'gd': 5}
+{'name': 'Washington Capitals', 'year': 1994, 'wins': 22, 'losses': 18, 'ot-losses': 0, 'win%': 0.458, 'gf': 136, 'ga': 120, 'gd': 16}
+{'name': 'Winnipeg Jets', 'year': 1994, 'wins': 16, 'losses': 25, 'ot-losses': 0, 'win%': 0.333, 'gf': 157, 'ga': 177, 'gd': -20}
+{'name': 'Mighty Ducks of Anaheim', 'year': 1995, 'wins': 35, 'losses': 39, 'ot-losses': 0, 'win%': 0.427, 'gf': 234, 'ga': 247, 'gd': -13}
+{'name': 'Boston Bruins', 'year': 1995, 'wins': 40, 'losses': 31, 'ot-losses': 0, 'win%': 0.488, 'gf': 282, 'ga': 269, 'gd': 13}
+{'name': 'Buffalo Sabres', 'year': 1995, 'wins': 33, 'losses': 42, 'ot-losses': 0, 'win%': 0.402, 'gf': 247, 'ga': 262, 'gd': -15}
+{'name': 'Calgary Flames', 'year': 1995, 'wins': 34, 'losses': 37, 'ot-losses': 0, 'win%': 0.415, 'gf': 241, 'ga': 240, 'gd': 1}
+{'name': 'Chicago Blackhawks', 'year': 1995, 'wins': 40, 'losses': 28, 'ot-losses': 0, 'win%': 0.488, 'gf': 273, 'ga': 220, 'gd': 53}
+{'name': 'Colorado Avalanche', 'year': 1995, 'wins': 47, 'losses': 25, 'ot-losses': 0, 'win%': 0.573, 'gf': 326, 'ga': 240, 'gd': 86}
+{'name': 'Dallas Stars', 'year': 1995, 'wins': 26, 'losses': 42, 'ot-losses': 0, 'win%': 0.317, 'gf': 227, 'ga': 280, 'gd': -53}
+{'name': 'Detroit Red Wings', 'year': 1995, 'wins': 62, 'losses': 13, 'ot-losses': 0, 'win%': 0.756, 'gf': 325, 'ga': 181, 'gd': 144}
+{'name': 'Edmonton Oilers', 'year': 1995, 'wins': 30, 'losses': 44, 'ot-losses': 0, 'win%': 0.366, 'gf': 240, 'ga': 304, 'gd': -64}
+{'name': 'Florida Panthers', 'year': 1995, 'wins': 41, 'losses': 31, 'ot-losses': 0, 'win%': 0.5, 'gf': 254, 'ga': 234, 'gd': 20}
+{'name': 'Hartford Whalers', 'year': 1995, 'wins': 34, 'losses': 39, 'ot-losses': 0, 'win%': 0.415, 'gf': 237, 'ga': 259, 'gd': -22}
+{'name': 'Los Angeles Kings', 'year': 1995, 'wins': 24, 'losses': 40, 'ot-losses': 0, 'win%': 0.293, 'gf': 256, 'ga': 302, 'gd': -46}
+{'name': 'Montreal Canadiens', 'year': 1995, 'wins': 40, 'losses': 32, 'ot-losses': 0, 'win%': 0.488, 'gf': 265, 'ga': 248, 'gd': 17}
+{'name': 'New Jersey Devils', 'year': 1995, 'wins': 37, 'losses': 33, 'ot-losses': 0, 'win%': 0.451, 'gf': 215, 'ga': 202, 'gd': 13}
+{'name': 'New York Islanders', 'year': 1995, 'wins': 22, 'losses': 50, 'ot-losses': 0, 'win%': 0.268, 'gf': 229, 'ga': 315, 'gd': -86}
+{'name': 'New York Rangers', 'year': 1995, 'wins': 41, 'losses': 27, 'ot-losses': 0, 'win%': 0.5, 'gf': 272, 'ga': 237, 'gd': 35}
+{'name': 'Ottawa Senators', 'year': 1995, 'wins': 18, 'losses': 59, 'ot-losses': 0, 'win%': 0.22, 'gf': 191, 'ga': 291, 'gd': -100}
+{'name': 'Philadelphia Flyers', 'year': 1995, 'wins': 45, 'losses': 24, 'ot-losses': 0, 'win%': 0.549, 'gf': 282, 'ga': 208, 'gd': 74}
+{'name': 'Pittsburgh Penguins', 'year': 1995, 'wins': 49, 'losses': 29, 'ot-losses': 0, 'win%': 0.598, 'gf': 362, 'ga': 284, 'gd': 78}
+{'name': 'San Jose Sharks', 'year': 1995, 'wins': 20, 'losses': 55, 'ot-losses': 0, 'win%': 0.244, 'gf': 252, 'ga': 357, 'gd': -105}
+{'name': 'St. Louis Blues', 'year': 1995, 'wins': 32, 'losses': 34, 'ot-losses': 0, 'win%': 0.39, 'gf': 219, 'ga': 248, 'gd': -29}
+{'name': 'Tampa Bay Lightning', 'year': 1995, 'wins': 38, 'losses': 32, 'ot-losses': 0, 'win%': 0.463, 'gf': 238, 'ga': 248, 'gd': -10}
+{'name': 'Toronto Maple Leafs', 'year': 1995, 'wins': 34, 'losses': 36, 'ot-losses': 0, 'win%': 0.415, 'gf': 247, 'ga': 252, 'gd': -5}
+{'name': 'Vancouver Canucks', 'year': 1995, 'wins': 32, 'losses': 35, 'ot-losses': 0, 'win%': 0.39, 'gf': 278, 'ga': 278, 'gd': 0}
+{'name': 'Washington Capitals', 'year': 1995, 'wins': 39, 'losses': 32, 'ot-losses': 0, 'win%': 0.476, 'gf': 234, 'ga': 204, 'gd': 30}
+{'name': 'Winnipeg Jets', 'year': 1995, 'wins': 36, 'losses': 40, 'ot-losses': 0, 'win%': 0.439, 'gf': 275, 'ga': 291, 'gd': -16}
+{'name': 'Mighty Ducks of Anaheim', 'year': 1996, 'wins': 36, 'losses': 33, 'ot-losses': 0, 'win%': 0.439, 'gf': 245, 'ga': 233, 'gd': 12}
+{'name': 'Boston Bruins', 'year': 1996, 'wins': 26, 'losses': 47, 'ot-losses': 0, 'win%': 0.317, 'gf': 234, 'ga': 300, 'gd': -66}
+{'name': 'Buffalo Sabres', 'year': 1996, 'wins': 40, 'losses': 30, 'ot-losses': 0, 'win%': 0.488, 'gf': 237, 'ga': 208, 'gd': 29}
+{'name': 'Calgary Flames', 'year': 1996, 'wins': 32, 'losses': 41, 'ot-losses': 0, 'win%': 0.39, 'gf': 214, 'ga': 239, 'gd': -25}
+{'name': 'Chicago Blackhawks', 'year': 1996, 'wins': 34, 'losses': 35, 'ot-losses': 0, 'win%': 0.415, 'gf': 223, 'ga': 210, 'gd': 13}
+{'name': 'Colorado Avalanche', 'year': 1996, 'wins': 49, 'losses': 24, 'ot-losses': 0, 'win%': 0.598, 'gf': 277, 'ga': 205, 'gd': 72}
+{'name': 'Dallas Stars', 'year': 1996, 'wins': 48, 'losses': 26, 'ot-losses': 0, 'win%': 0.585, 'gf': 252, 'ga': 198, 'gd': 54}
+{'name': 'Detroit Red Wings', 'year': 1996, 'wins': 38, 'losses': 26, 'ot-losses': 0, 'win%': 0.463, 'gf': 253, 'ga': 197, 'gd': 56}
+{'name': 'Edmonton Oilers', 'year': 1996, 'wins': 36, 'losses': 37, 'ot-losses': 0, 'win%': 0.439, 'gf': 252, 'ga': 247, 'gd': 5}
+{'name': 'Florida Panthers', 'year': 1996, 'wins': 35, 'losses': 28, 'ot-losses': 0, 'win%': 0.427, 'gf': 221, 'ga': 201, 'gd': 20}
+{'name': 'Hartford Whalers', 'year': 1996, 'wins': 32, 'losses': 39, 'ot-losses': 0, 'win%': 0.39, 'gf': 226, 'ga': 256, 'gd': -30}
+{'name': 'Los Angeles Kings', 'year': 1996, 'wins': 28, 'losses': 43, 'ot-losses': 0, 'win%': 0.341, 'gf': 214, 'ga': 268, 'gd': -54}
+{'name': 'Montreal Canadiens', 'year': 1996, 'wins': 31, 'losses': 36, 'ot-losses': 0, 'win%': 0.378, 'gf': 249, 'ga': 276, 'gd': -27}
+{'name': 'New Jersey Devils', 'year': 1996, 'wins': 45, 'losses': 23, 'ot-losses': 0, 'win%': 0.549, 'gf': 231, 'ga': 182, 'gd': 49}
+{'name': 'New York Islanders', 'year': 1996, 'wins': 29, 'losses': 41, 'ot-losses': 0, 'win%': 0.354, 'gf': 240, 'ga': 250, 'gd': -10}
+{'name': 'New York Rangers', 'year': 1996, 'wins': 38, 'losses': 34, 'ot-losses': 0, 'win%': 0.463, 'gf': 258, 'ga': 231, 'gd': 27}
+{'name': 'Ottawa Senators', 'year': 1996, 'wins': 31, 'losses': 36, 'ot-losses': 0, 'win%': 0.378, 'gf': 226, 'ga': 234, 'gd': -8}
+{'name': 'Philadelphia Flyers', 'year': 1996, 'wins': 45, 'losses': 24, 'ot-losses': 0, 'win%': 0.549, 'gf': 274, 'ga': 217, 'gd': 57}
+{'name': 'Phoenix Coyotes', 'year': 1996, 'wins': 38, 'losses': 37, 'ot-losses': 0, 'win%': 0.463, 'gf': 240, 'ga': 243, 'gd': -3}
+{'name': 'Pittsburgh Penguins', 'year': 1996, 'wins': 38, 'losses': 36, 'ot-losses': 0, 'win%': 0.463, 'gf': 285, 'ga': 280, 'gd': 5}
+{'name': 'San Jose Sharks', 'year': 1996, 'wins': 27, 'losses': 47, 'ot-losses': 0, 'win%': 0.329, 'gf': 211, 'ga': 278, 'gd': -67}
+{'name': 'St. Louis Blues', 'year': 1996, 'wins': 36, 'losses': 35, 'ot-losses': 0, 'win%': 0.439, 'gf': 236, 'ga': 239, 'gd': -3}
+{'name': 'Tampa Bay Lightning', 'year': 1996, 'wins': 32, 'losses': 40, 'ot-losses': 0, 'win%': 0.39, 'gf': 217, 'ga': 247, 'gd': -30}
+{'name': 'Toronto Maple Leafs', 'year': 1996, 'wins': 30, 'losses': 44, 'ot-losses': 0, 'win%': 0.366, 'gf': 230, 'ga': 273, 'gd': -43}
+{'name': 'Vancouver Canucks', 'year': 1996, 'wins': 35, 'losses': 40, 'ot-losses': 0, 'win%': 0.427, 'gf': 257, 'ga': 273, 'gd': -16}
+{'name': 'Washington Capitals', 'year': 1996, 'wins': 33, 'losses': 40, 'ot-losses': 0, 'win%': 0.402, 'gf': 214, 'ga': 231, 'gd': -17}
+{'name': 'Mighty Ducks of Anaheim', 'year': 1997, 'wins': 26, 'losses': 43, 'ot-losses': 0, 'win%': 0.317, 'gf': 205, 'ga': 261, 'gd': -56}
+{'name': 'Boston Bruins', 'year': 1997, 'wins': 39, 'losses': 30, 'ot-losses': 0, 'win%': 0.476, 'gf': 221, 'ga': 194, 'gd': 27}
+{'name': 'Buffalo Sabres', 'year': 1997, 'wins': 36, 'losses': 29, 'ot-losses': 0, 'win%': 0.439, 'gf': 211, 'ga': 187, 'gd': 24}
+{'name': 'Calgary Flames', 'year': 1997, 'wins': 26, 'losses': 41, 'ot-losses': 0, 'win%': 0.317, 'gf': 217, 'ga': 252, 'gd': -35}
+{'name': 'Carolina Hurricanes', 'year': 1997, 'wins': 33, 'losses': 41, 'ot-losses': 0, 'win%': 0.402, 'gf': 200, 'ga': 219, 'gd': -19}
+{'name': 'Chicago Blackhawks', 'year': 1997, 'wins': 30, 'losses': 39, 'ot-losses': 0, 'win%': 0.366, 'gf': 192, 'ga': 199, 'gd': -7}
+{'name': 'Colorado Avalanche', 'year': 1997, 'wins': 39, 'losses': 26, 'ot-losses': 0, 'win%': 0.476, 'gf': 231, 'ga': 205, 'gd': 26}
+{'name': 'Dallas Stars', 'year': 1997, 'wins': 49, 'losses': 22, 'ot-losses': 0, 'win%': 0.598, 'gf': 242, 'ga': 167, 'gd': 75}
+{'name': 'Detroit Red Wings', 'year': 1997, 'wins': 44, 'losses': 23, 'ot-losses': 0, 'win%': 0.537, 'gf': 250, 'ga': 196, 'gd': 54}
+{'name': 'Edmonton Oilers', 'year': 1997, 'wins': 35, 'losses': 37, 'ot-losses': 0, 'win%': 0.427, 'gf': 215, 'ga': 224, 'gd': -9}
+{'name': 'Florida Panthers', 'year': 1997, 'wins': 24, 'losses': 43, 'ot-losses': 0, 'win%': 0.293, 'gf': 203, 'ga': 256, 'gd': -53}
+{'name': 'Los Angeles Kings', 'year': 1997, 'wins': 38, 'losses': 33, 'ot-losses': 0, 'win%': 0.463, 'gf': 227, 'ga': 225, 'gd': 2}
+{'name': 'Montreal Canadiens', 'year': 1997, 'wins': 37, 'losses': 32, 'ot-losses': 0, 'win%': 0.451, 'gf': 235, 'ga': 208, 'gd': 27}
+{'name': 'New Jersey Devils', 'year': 1997, 'wins': 48, 'losses': 23, 'ot-losses': 0, 'win%': 0.585, 'gf': 225, 'ga': 166, 'gd': 59}
+{'name': 'New York Islanders', 'year': 1997, 'wins': 30, 'losses': 41, 'ot-losses': 0, 'win%': 0.366, 'gf': 212, 'ga': 225, 'gd': -13}
+{'name': 'New York Rangers', 'year': 1997, 'wins': 25, 'losses': 39, 'ot-losses': 0, 'win%': 0.305, 'gf': 197, 'ga': 231, 'gd': -34}
+{'name': 'Ottawa Senators', 'year': 1997, 'wins': 34, 'losses': 33, 'ot-losses': 0, 'win%': 0.415, 'gf': 193, 'ga': 200, 'gd': -7}
+{'name': 'Philadelphia Flyers', 'year': 1997, 'wins': 42, 'losses': 29, 'ot-losses': 0, 'win%': 0.512, 'gf': 242, 'ga': 193, 'gd': 49}
+{'name': 'Phoenix Coyotes', 'year': 1997, 'wins': 35, 'losses': 35, 'ot-losses': 0, 'win%': 0.427, 'gf': 224, 'ga': 227, 'gd': -3}
+{'name': 'Pittsburgh Penguins', 'year': 1997, 'wins': 40, 'losses': 24, 'ot-losses': 0, 'win%': 0.488, 'gf': 228, 'ga': 188, 'gd': 40}
+{'name': 'San Jose Sharks', 'year': 1997, 'wins': 34, 'losses': 38, 'ot-losses': 0, 'win%': 0.415, 'gf': 210, 'ga': 216, 'gd': -6}
+{'name': 'St. Louis Blues', 'year': 1997, 'wins': 45, 'losses': 29, 'ot-losses': 0, 'win%': 0.549, 'gf': 256, 'ga': 204, 'gd': 52}
+{'name': 'Tampa Bay Lightning', 'year': 1997, 'wins': 17, 'losses': 55, 'ot-losses': 0, 'win%': 0.207, 'gf': 151, 'ga': 269, 'gd': -118}
+{'name': 'Toronto Maple Leafs', 'year': 1997, 'wins': 30, 'losses': 43, 'ot-losses': 0, 'win%': 0.366, 'gf': 194, 'ga': 237, 'gd': -43}
+{'name': 'Vancouver Canucks', 'year': 1997, 'wins': 25, 'losses': 43, 'ot-losses': 0, 'win%': 0.305, 'gf': 224, 'ga': 273, 'gd': -49}
+{'name': 'Washington Capitals', 'year': 1997, 'wins': 40, 'losses': 30, 'ot-losses': 0, 'win%': 0.488, 'gf': 219, 'ga': 202, 'gd': 17}
+{'name': 'Mighty Ducks of Anaheim', 'year': 1998, 'wins': 35, 'losses': 34, 'ot-losses': 0, 'win%': 0.427, 'gf': 215, 'ga': 206, 'gd': 9}
+{'name': 'Boston Bruins', 'year': 1998, 'wins': 39, 'losses': 30, 'ot-losses': 0, 'win%': 0.476, 'gf': 214, 'ga': 181, 'gd': 33}
+{'name': 'Buffalo Sabres', 'year': 1998, 'wins': 37, 'losses': 28, 'ot-losses': 0, 'win%': 0.451, 'gf': 207, 'ga': 175, 'gd': 32}
+{'name': 'Calgary Flames', 'year': 1998, 'wins': 30, 'losses': 40, 'ot-losses': 0, 'win%': 0.366, 'gf': 211, 'ga': 234, 'gd': -23}
+{'name': 'Carolina Hurricanes', 'year': 1998, 'wins': 34, 'losses': 30, 'ot-losses': 0, 'win%': 0.415, 'gf': 210, 'ga': 202, 'gd': 8}
+{'name': 'Chicago Blackhawks', 'year': 1998, 'wins': 29, 'losses': 41, 'ot-losses': 0, 'win%': 0.354, 'gf': 202, 'ga': 248, 'gd': -46}
+{'name': 'Colorado Avalanche', 'year': 1998, 'wins': 44, 'losses': 28, 'ot-losses': 0, 'win%': 0.537, 'gf': 239, 'ga': 205, 'gd': 34}
+{'name': 'Dallas Stars', 'year': 1998, 'wins': 51, 'losses': 19, 'ot-losses': 0, 'win%': 0.622, 'gf': 236, 'ga': 168, 'gd': 68}
+{'name': 'Detroit Red Wings', 'year': 1998, 'wins': 43, 'losses': 32, 'ot-losses': 0, 'win%': 0.524, 'gf': 245, 'ga': 202, 'gd': 43}
+{'name': 'Edmonton Oilers', 'year': 1998, 'wins': 33, 'losses': 37, 'ot-losses': 0, 'win%': 0.402, 'gf': 230, 'ga': 226, 'gd': 4}
+{'name': 'Florida Panthers', 'year': 1998, 'wins': 30, 'losses': 34, 'ot-losses': 0, 'win%': 0.366, 'gf': 210, 'ga': 228, 'gd': -18}
+{'name': 'Los Angeles Kings', 'year': 1998, 'wins': 32, 'losses': 45, 'ot-losses': 0, 'win%': 0.39, 'gf': 189, 'ga': 222, 'gd': -33}
+{'name': 'Montreal Canadiens', 'year': 1998, 'wins': 32, 'losses': 39, 'ot-losses': 0, 'win%': 0.39, 'gf': 184, 'ga': 209, 'gd': -25}
+{'name': 'Nashville Predators', 'year': 1998, 'wins': 28, 'losses': 47, 'ot-losses': 0, 'win%': 0.341, 'gf': 190, 'ga': 261, 'gd': -71}
+{'name': 'New Jersey Devils', 'year': 1998, 'wins': 47, 'losses': 24, 'ot-losses': 0, 'win%': 0.573, 'gf': 248, 'ga': 196, 'gd': 52}
+{'name': 'New York Islanders', 'year': 1998, 'wins': 24, 'losses': 48, 'ot-losses': 0, 'win%': 0.293, 'gf': 194, 'ga': 244, 'gd': -50}
+{'name': 'New York Rangers', 'year': 1998, 'wins': 33, 'losses': 38, 'ot-losses': 0, 'win%': 0.402, 'gf': 217, 'ga': 227, 'gd': -10}
+{'name': 'Ottawa Senators', 'year': 1998, 'wins': 44, 'losses': 23, 'ot-losses': 0, 'win%': 0.537, 'gf': 239, 'ga': 179, 'gd': 60}
+{'name': 'Philadelphia Flyers', 'year': 1998, 'wins': 37, 'losses': 26, 'ot-losses': 0, 'win%': 0.451, 'gf': 231, 'ga': 196, 'gd': 35}
+{'name': 'Phoenix Coyotes', 'year': 1998, 'wins': 39, 'losses': 31, 'ot-losses': 0, 'win%': 0.476, 'gf': 205, 'ga': 197, 'gd': 8}
+{'name': 'Pittsburgh Penguins', 'year': 1998, 'wins': 38, 'losses': 30, 'ot-losses': 0, 'win%': 0.463, 'gf': 242, 'ga': 225, 'gd': 17}
+{'name': 'San Jose Sharks', 'year': 1998, 'wins': 31, 'losses': 33, 'ot-losses': 0, 'win%': 0.378, 'gf': 196, 'ga': 191, 'gd': 5}
+{'name': 'St. Louis Blues', 'year': 1998, 'wins': 37, 'losses': 32, 'ot-losses': 0, 'win%': 0.451, 'gf': 237, 'ga': 209, 'gd': 28}
+{'name': 'Tampa Bay Lightning', 'year': 1998, 'wins': 19, 'losses': 54, 'ot-losses': 0, 'win%': 0.232, 'gf': 179, 'ga': 292, 'gd': -113}
+{'name': 'Toronto Maple Leafs', 'year': 1998, 'wins': 45, 'losses': 30, 'ot-losses': 0, 'win%': 0.549, 'gf': 268, 'ga': 231, 'gd': 37}
+{'name': 'Vancouver Canucks', 'year': 1998, 'wins': 23, 'losses': 47, 'ot-losses': 0, 'win%': 0.28, 'gf': 192, 'ga': 258, 'gd': -66}
+{'name': 'Washington Capitals', 'year': 1998, 'wins': 31, 'losses': 45, 'ot-losses': 0, 'win%': 0.378, 'gf': 200, 'ga': 218, 'gd': -18}
+{'name': 'Mighty Ducks of Anaheim', 'year': 1999, 'wins': 34, 'losses': 33, 'ot-losses': 3, 'win%': 0.415, 'gf': 217, 'ga': 227, 'gd': -10}
+{'name': 'Atlanta Thrashers', 'year': 1999, 'wins': 14, 'losses': 57, 'ot-losses': 4, 'win%': 0.171, 'gf': 170, 'ga': 313, 'gd': -143}
+{'name': 'Boston Bruins', 'year': 1999, 'wins': 24, 'losses': 33, 'ot-losses': 6, 'win%': 0.293, 'gf': 210, 'ga': 248, 'gd': -38}
+{'name': 'Buffalo Sabres', 'year': 1999, 'wins': 35, 'losses': 32, 'ot-losses': 4, 'win%': 0.427, 'gf': 213, 'ga': 204, 'gd': 9}
+{'name': 'Calgary Flames', 'year': 1999, 'wins': 31, 'losses': 36, 'ot-losses': 5, 'win%': 0.378, 'gf': 211, 'ga': 256, 'gd': -45}
+{'name': 'Carolina Hurricanes', 'year': 1999, 'wins': 37, 'losses': 35, 'ot-losses': 0, 'win%': 0.451, 'gf': 217, 'ga': 216, 'gd': 1}
+{'name': 'Chicago Blackhawks', 'year': 1999, 'wins': 33, 'losses': 37, 'ot-losses': 2, 'win%': 0.402, 'gf': 242, 'ga': 245, 'gd': -3}
+{'name': 'Colorado Avalanche', 'year': 1999, 'wins': 42, 'losses': 28, 'ot-losses': 1, 'win%': 0.512, 'gf': 233, 'ga': 201, 'gd': 32}
+{'name': 'Dallas Stars', 'year': 1999, 'wins': 43, 'losses': 23, 'ot-losses': 6, 'win%': 0.524, 'gf': 211, 'ga': 184, 'gd': 27}
+{'name': 'Detroit Red Wings', 'year': 1999, 'wins': 48, 'losses': 22, 'ot-losses': 2, 'win%': 0.585, 'gf': 278, 'ga': 210, 'gd': 68}
+{'name': 'Edmonton Oilers', 'year': 1999, 'wins': 32, 'losses': 26, 'ot-losses': 8, 'win%': 0.39, 'gf': 226, 'ga': 212, 'gd': 14}
+{'name': 'Florida Panthers', 'year': 1999, 'wins': 43, 'losses': 27, 'ot-losses': 6, 'win%': 0.524, 'gf': 244, 'ga': 209, 'gd': 35}
+{'name': 'Los Angeles Kings', 'year': 1999, 'wins': 39, 'losses': 27, 'ot-losses': 4, 'win%': 0.476, 'gf': 245, 'ga': 228, 'gd': 17}
+{'name': 'Montreal Canadiens', 'year': 1999, 'wins': 35, 'losses': 34, 'ot-losses': 4, 'win%': 0.427, 'gf': 196, 'ga': 194, 'gd': 2}
+{'name': 'Nashville Predators', 'year': 1999, 'wins': 28, 'losses': 40, 'ot-losses': 7, 'win%': 0.341, 'gf': 199, 'ga': 240, 'gd': -41}
+{'name': 'New Jersey Devils', 'year': 1999, 'wins': 45, 'losses': 24, 'ot-losses': 5, 'win%': 0.549, 'gf': 251, 'ga': 203, 'gd': 48}
+{'name': 'New York Islanders', 'year': 1999, 'wins': 24, 'losses': 48, 'ot-losses': 1, 'win%': 0.293, 'gf': 194, 'ga': 275, 'gd': -81}
+{'name': 'New York Rangers', 'year': 1999, 'wins': 29, 'losses': 38, 'ot-losses': 3, 'win%': 0.354, 'gf': 218, 'ga': 246, 'gd': -28}
+{'name': 'Ottawa Senators', 'year': 1999, 'wins': 41, 'losses': 28, 'ot-losses': 2, 'win%': 0.5, 'gf': 244, 'ga': 210, 'gd': 34}
+{'name': 'Philadelphia Flyers', 'year': 1999, 'wins': 45, 'losses': 22, 'ot-losses': 3, 'win%': 0.549, 'gf': 237, 'ga': 179, 'gd': 58}
+{'name': 'Phoenix Coyotes', 'year': 1999, 'wins': 39, 'losses': 31, 'ot-losses': 4, 'win%': 0.476, 'gf': 232, 'ga': 228, 'gd': 4}
+{'name': 'Pittsburgh Penguins', 'year': 1999, 'wins': 37, 'losses': 31, 'ot-losses': 6, 'win%': 0.451, 'gf': 241, 'ga': 236, 'gd': 5}
+{'name': 'San Jose Sharks', 'year': 1999, 'wins': 35, 'losses': 30, 'ot-losses': 7, 'win%': 0.427, 'gf': 225, 'ga': 214, 'gd': 11}
+{'name': 'St. Louis Blues', 'year': 1999, 'wins': 51, 'losses': 19, 'ot-losses': 1, 'win%': 0.622, 'gf': 248, 'ga': 165, 'gd': 83}
+{'name': 'Tampa Bay Lightning', 'year': 1999, 'wins': 19, 'losses': 47, 'ot-losses': 7, 'win%': 0.232, 'gf': 204, 'ga': 310, 'gd': -106}
+{'name': 'Toronto Maple Leafs', 'year': 1999, 'wins': 45, 'losses': 27, 'ot-losses': 3, 'win%': 0.549, 'gf': 246, 'ga': 222, 'gd': 24}
+{'name': 'Vancouver Canucks', 'year': 1999, 'wins': 30, 'losses': 29, 'ot-losses': 8, 'win%': 0.366, 'gf': 227, 'ga': 237, 'gd': -10}
+{'name': 'Washington Capitals', 'year': 1999, 'wins': 44, 'losses': 24, 'ot-losses': 2, 'win%': 0.537, 'gf': 227, 'ga': 194, 'gd': 33}
+{'name': 'Mighty Ducks of Anaheim', 'year': 2000, 'wins': 25, 'losses': 41, 'ot-losses': 5, 'win%': 0.305, 'gf': 188, 'ga': 245, 'gd': -57}
+{'name': 'Atlanta Thrashers', 'year': 2000, 'wins': 23, 'losses': 45, 'ot-losses': 2, 'win%': 0.28, 'gf': 211, 'ga': 289, 'gd': -78}
+{'name': 'Boston Bruins', 'year': 2000, 'wins': 36, 'losses': 30, 'ot-losses': 8, 'win%': 0.439, 'gf': 227, 'ga': 249, 'gd': -22}
+{'name': 'Buffalo Sabres', 'year': 2000, 'wins': 46, 'losses': 30, 'ot-losses': 1, 'win%': 0.561, 'gf': 218, 'ga': 184, 'gd': 34}
+{'name': 'Calgary Flames', 'year': 2000, 'wins': 27, 'losses': 36, 'ot-losses': 4, 'win%': 0.329, 'gf': 197, 'ga': 236, 'gd': -39}
+{'name': 'Carolina Hurricanes', 'year': 2000, 'wins': 38, 'losses': 32, 'ot-losses': 3, 'win%': 0.463, 'gf': 212, 'ga': 225, 'gd': -13}
+{'name': 'Columbus Blue Jackets', 'year': 2000, 'wins': 28, 'losses': 39, 'ot-losses': 6, 'win%': 0.341, 'gf': 190, 'ga': 233, 'gd': -43}
+{'name': 'Chicago Blackhawks', 'year': 2000, 'wins': 29, 'losses': 40, 'ot-losses': 5, 'win%': 0.354, 'gf': 210, 'ga': 246, 'gd': -36}
+{'name': 'Colorado Avalanche', 'year': 2000, 'wins': 52, 'losses': 16, 'ot-losses': 4, 'win%': 0.634, 'gf': 270, 'ga': 192, 'gd': 78}
+{'name': 'Dallas Stars', 'year': 2000, 'wins': 48, 'losses': 24, 'ot-losses': 2, 'win%': 0.585, 'gf': 241, 'ga': 187, 'gd': 54}
+{'name': 'Detroit Red Wings', 'year': 2000, 'wins': 49, 'losses': 20, 'ot-losses': 4, 'win%': 0.598, 'gf': 253, 'ga': 202, 'gd': 51}
+{'name': 'Edmonton Oilers', 'year': 2000, 'wins': 39, 'losses': 28, 'ot-losses': 3, 'win%': 0.476, 'gf': 243, 'ga': 222, 'gd': 21}
+{'name': 'Florida Panthers', 'year': 2000, 'wins': 22, 'losses': 38, 'ot-losses': 9, 'win%': 0.268, 'gf': 200, 'ga': 246, 'gd': -46}
+{'name': 'Los Angeles Kings', 'year': 2000, 'wins': 38, 'losses': 28, 'ot-losses': 3, 'win%': 0.463, 'gf': 252, 'ga': 228, 'gd': 24}
+{'name': 'Minnesota Wild', 'year': 2000, 'wins': 25, 'losses': 39, 'ot-losses': 5, 'win%': 0.305, 'gf': 168, 'ga': 210, 'gd': -42}
+{'name': 'Montreal Canadiens', 'year': 2000, 'wins': 28, 'losses': 40, 'ot-losses': 6, 'win%': 0.341, 'gf': 206, 'ga': 232, 'gd': -26}
+{'name': 'Nashville Predators', 'year': 2000, 'wins': 34, 'losses': 36, 'ot-losses': 3, 'win%': 0.415, 'gf': 186, 'ga': 200, 'gd': -14}
+{'name': 'New Jersey Devils', 'year': 2000, 'wins': 48, 'losses': 19, 'ot-losses': 3, 'win%': 0.585, 'gf': 295, 'ga': 195, 'gd': 100}
+{'name': 'New York Islanders', 'year': 2000, 'wins': 21, 'losses': 51, 'ot-losses': 3, 'win%': 0.256, 'gf': 185, 'ga': 268, 'gd': -83}
+{'name': 'New York Rangers', 'year': 2000, 'wins': 33, 'losses': 43, 'ot-losses': 1, 'win%': 0.402, 'gf': 250, 'ga': 290, 'gd': -40}
+{'name': 'Ottawa Senators', 'year': 2000, 'wins': 48, 'losses': 21, 'ot-losses': 4, 'win%': 0.585, 'gf': 274, 'ga': 205, 'gd': 69}
+{'name': 'Philadelphia Flyers', 'year': 2000, 'wins': 43, 'losses': 25, 'ot-losses': 3, 'win%': 0.524, 'gf': 240, 'ga': 207, 'gd': 33}
+{'name': 'Phoenix Coyotes', 'year': 2000, 'wins': 35, 'losses': 27, 'ot-losses': 3, 'win%': 0.427, 'gf': 214, 'ga': 212, 'gd': 2}
+{'name': 'Pittsburgh Penguins', 'year': 2000, 'wins': 42, 'losses': 28, 'ot-losses': 3, 'win%': 0.512, 'gf': 281, 'ga': 256, 'gd': 25}
+{'name': 'San Jose Sharks', 'year': 2000, 'wins': 40, 'losses': 27, 'ot-losses': 3, 'win%': 0.488, 'gf': 217, 'ga': 192, 'gd': 25}
+{'name': 'St. Louis Blues', 'year': 2000, 'wins': 43, 'losses': 22, 'ot-losses': 5, 'win%': 0.524, 'gf': 249, 'ga': 195, 'gd': 54}
+{'name': 'Tampa Bay Lightning', 'year': 2000, 'wins': 24, 'losses': 47, 'ot-losses': 5, 'win%': 0.293, 'gf': 201, 'ga': 280, 'gd': -79}
+{'name': 'Toronto Maple Leafs', 'year': 2000, 'wins': 37, 'losses': 29, 'ot-losses': 5, 'win%': 0.451, 'gf': 232, 'ga': 207, 'gd': 25}
+{'name': 'Vancouver Canucks', 'year': 2000, 'wins': 36, 'losses': 28, 'ot-losses': 7, 'win%': 0.439, 'gf': 239, 'ga': 238, 'gd': 1}
+{'name': 'Washington Capitals', 'year': 2000, 'wins': 41, 'losses': 27, 'ot-losses': 4, 'win%': 0.5, 'gf': 233, 'ga': 211, 'gd': 22}
+{'name': 'Mighty Ducks of Anaheim', 'year': 2001, 'wins': 29, 'losses': 42, 'ot-losses': 3, 'win%': 0.354, 'gf': 175, 'ga': 198, 'gd': -23}
+{'name': 'Atlanta Thrashers', 'year': 2001, 'wins': 19, 'losses': 47, 'ot-losses': 5, 'win%': 0.232, 'gf': 187, 'ga': 288, 'gd': -101}
+{'name': 'Boston Bruins', 'year': 2001, 'wins': 43, 'losses': 24, 'ot-losses': 9, 'win%': 0.524, 'gf': 236, 'ga': 201, 'gd': 35}
+{'name': 'Buffalo Sabres', 'year': 2001, 'wins': 35, 'losses': 35, 'ot-losses': 1, 'win%': 0.427, 'gf': 213, 'ga': 200, 'gd': 13}
+{'name': 'Calgary Flames', 'year': 2001, 'wins': 32, 'losses': 35, 'ot-losses': 3, 'win%': 0.39, 'gf': 201, 'ga': 220, 'gd': -19}
+{'name': 'Carolina Hurricanes', 'year': 2001, 'wins': 35, 'losses': 26, 'ot-losses': 5, 'win%': 0.427, 'gf': 217, 'ga': 217, 'gd': 0}
+{'name': 'Columbus Blue Jackets', 'year': 2001, 'wins': 22, 'losses': 47, 'ot-losses': 5, 'win%': 0.268, 'gf': 164, 'ga': 255, 'gd': -91}
+{'name': 'Chicago Blackhawks', 'year': 2001, 'wins': 41, 'losses': 27, 'ot-losses': 1, 'win%': 0.5, 'gf': 216, 'ga': 207, 'gd': 9}
+{'name': 'Colorado Avalanche', 'year': 2001, 'wins': 45, 'losses': 28, 'ot-losses': 1, 'win%': 0.549, 'gf': 212, 'ga': 169, 'gd': 43}
+{'name': 'Dallas Stars', 'year': 2001, 'wins': 36, 'losses': 28, 'ot-losses': 5, 'win%': 0.439, 'gf': 215, 'ga': 213, 'gd': 2}
+{'name': 'Detroit Red Wings', 'year': 2001, 'wins': 51, 'losses': 17, 'ot-losses': 4, 'win%': 0.622, 'gf': 251, 'ga': 187, 'gd': 64}
+{'name': 'Edmonton Oilers', 'year': 2001, 'wins': 38, 'losses': 28, 'ot-losses': 4, 'win%': 0.463, 'gf': 205, 'ga': 182, 'gd': 23}
+{'name': 'Florida Panthers', 'year': 2001, 'wins': 22, 'losses': 44, 'ot-losses': 6, 'win%': 0.268, 'gf': 180, 'ga': 250, 'gd': -70}
+{'name': 'Los Angeles Kings', 'year': 2001, 'wins': 40, 'losses': 27, 'ot-losses': 4, 'win%': 0.488, 'gf': 214, 'ga': 190, 'gd': 24}
+{'name': 'Minnesota Wild', 'year': 2001, 'wins': 26, 'losses': 35, 'ot-losses': 9, 'win%': 0.317, 'gf': 195, 'ga': 238, 'gd': -43}
+{'name': 'Montreal Canadiens', 'year': 2001, 'wins': 36, 'losses': 31, 'ot-losses': 3, 'win%': 0.439, 'gf': 207, 'ga': 209, 'gd': -2}
+{'name': 'Nashville Predators', 'year': 2001, 'wins': 28, 'losses': 41, 'ot-losses': 0, 'win%': 0.341, 'gf': 196, 'ga': 230, 'gd': -34}
+{'name': 'New Jersey Devils', 'year': 2001, 'wins': 41, 'losses': 28, 'ot-losses': 4, 'win%': 0.5, 'gf': 205, 'ga': 187, 'gd': 18}
+{'name': 'New York Islanders', 'year': 2001, 'wins': 42, 'losses': 28, 'ot-losses': 4, 'win%': 0.512, 'gf': 239, 'ga': 220, 'gd': 19}
+{'name': 'New York Rangers', 'year': 2001, 'wins': 36, 'losses': 38, 'ot-losses': 4, 'win%': 0.439, 'gf': 227, 'ga': 258, 'gd': -31}
+{'name': 'Ottawa Senators', 'year': 2001, 'wins': 39, 'losses': 27, 'ot-losses': 7, 'win%': 0.476, 'gf': 243, 'ga': 208, 'gd': 35}
+{'name': 'Philadelphia Flyers', 'year': 2001, 'wins': 42, 'losses': 27, 'ot-losses': 3, 'win%': 0.512, 'gf': 234, 'ga': 192, 'gd': 42}
+{'name': 'Phoenix Coyotes', 'year': 2001, 'wins': 40, 'losses': 27, 'ot-losses': 6, 'win%': 0.488, 'gf': 228, 'ga': 210, 'gd': 18}
+{'name': 'Pittsburgh Penguins', 'year': 2001, 'wins': 28, 'losses': 41, 'ot-losses': 5, 'win%': 0.341, 'gf': 198, 'ga': 249, 'gd': -51}
+{'name': 'San Jose Sharks', 'year': 2001, 'wins': 44, 'losses': 27, 'ot-losses': 3, 'win%': 0.537, 'gf': 248, 'ga': 199, 'gd': 49}
+{'name': 'St. Louis Blues', 'year': 2001, 'wins': 43, 'losses': 27, 'ot-losses': 4, 'win%': 0.524, 'gf': 227, 'ga': 188, 'gd': 39}
+{'name': 'Tampa Bay Lightning', 'year': 2001, 'wins': 27, 'losses': 40, 'ot-losses': 4, 'win%': 0.329, 'gf': 178, 'ga': 219, 'gd': -41}
+{'name': 'Toronto Maple Leafs', 'year': 2001, 'wins': 43, 'losses': 25, 'ot-losses': 4, 'win%': 0.524, 'gf': 249, 'ga': 207, 'gd': 42}
+{'name': 'Vancouver Canucks', 'year': 2001, 'wins': 42, 'losses': 30, 'ot-losses': 3, 'win%': 0.512, 'gf': 254, 'ga': 211, 'gd': 43}
+{'name': 'Washington Capitals', 'year': 2001, 'wins': 36, 'losses': 33, 'ot-losses': 2, 'win%': 0.439, 'gf': 228, 'ga': 240, 'gd': -12}
+{'name': 'Mighty Ducks of Anaheim', 'year': 2002, 'wins': 40, 'losses': 27, 'ot-losses': 6, 'win%': 0.488, 'gf': 203, 'ga': 193, 'gd': 10}
+{'name': 'Atlanta Thrashers', 'year': 2002, 'wins': 31, 'losses': 39, 'ot-losses': 5, 'win%': 0.378, 'gf': 226, 'ga': 284, 'gd': -58}
+{'name': 'Boston Bruins', 'year': 2002, 'wins': 36, 'losses': 31, 'ot-losses': 4, 'win%': 0.439, 'gf': 245, 'ga': 237, 'gd': 8}
+{'name': 'Buffalo Sabres', 'year': 2002, 'wins': 27, 'losses': 37, 'ot-losses': 8, 'win%': 0.329, 'gf': 190, 'ga': 219, 'gd': -29}
+{'name': 'Calgary Flames', 'year': 2002, 'wins': 29, 'losses': 36, 'ot-losses': 4, 'win%': 0.354, 'gf': 186, 'ga': 228, 'gd': -42}
+{'name': 'Carolina Hurricanes', 'year': 2002, 'wins': 22, 'losses': 43, 'ot-losses': 6, 'win%': 0.268, 'gf': 171, 'ga': 240, 'gd': -69}
+{'name': 'Columbus Blue Jackets', 'year': 2002, 'wins': 29, 'losses': 42, 'ot-losses': 3, 'win%': 0.354, 'gf': 213, 'ga': 263, 'gd': -50}
+{'name': 'Chicago Blackhawks', 'year': 2002, 'wins': 30, 'losses': 33, 'ot-losses': 6, 'win%': 0.366, 'gf': 207, 'ga': 226, 'gd': -19}
+{'name': 'Colorado Avalanche', 'year': 2002, 'wins': 42, 'losses': 19, 'ot-losses': 8, 'win%': 0.512, 'gf': 251, 'ga': 194, 'gd': 57}
+{'name': 'Dallas Stars', 'year': 2002, 'wins': 46, 'losses': 17, 'ot-losses': 4, 'win%': 0.561, 'gf': 245, 'ga': 169, 'gd': 76}
+{'name': 'Detroit Red Wings', 'year': 2002, 'wins': 48, 'losses': 20, 'ot-losses': 4, 'win%': 0.585, 'gf': 269, 'ga': 203, 'gd': 66}
+{'name': 'Edmonton Oilers', 'year': 2002, 'wins': 36, 'losses': 26, 'ot-losses': 9, 'win%': 0.439, 'gf': 231, 'ga': 230, 'gd': 1}
+{'name': 'Florida Panthers', 'year': 2002, 'wins': 24, 'losses': 36, 'ot-losses': 9, 'win%': 0.293, 'gf': 176, 'ga': 237, 'gd': -61}
+{'name': 'Los Angeles Kings', 'year': 2002, 'wins': 33, 'losses': 37, 'ot-losses': 6, 'win%': 0.402, 'gf': 203, 'ga': 221, 'gd': -18}
+{'name': 'Minnesota Wild', 'year': 2002, 'wins': 42, 'losses': 29, 'ot-losses': 1, 'win%': 0.512, 'gf': 198, 'ga': 178, 'gd': 20}
+{'name': 'Montreal Canadiens', 'year': 2002, 'wins': 30, 'losses': 35, 'ot-losses': 9, 'win%': 0.366, 'gf': 206, 'ga': 234, 'gd': -28}
+{'name': 'Nashville Predators', 'year': 2002, 'wins': 27, 'losses': 35, 'ot-losses': 7, 'win%': 0.329, 'gf': 183, 'ga': 206, 'gd': -23}
+{'name': 'New Jersey Devils', 'year': 2002, 'wins': 46, 'losses': 20, 'ot-losses': 6, 'win%': 0.561, 'gf': 216, 'ga': 166, 'gd': 50}
+{'name': 'New York Islanders', 'year': 2002, 'wins': 35, 'losses': 34, 'ot-losses': 2, 'win%': 0.427, 'gf': 224, 'ga': 231, 'gd': -7}
+{'name': 'New York Rangers', 'year': 2002, 'wins': 32, 'losses': 36, 'ot-losses': 4, 'win%': 0.39, 'gf': 210, 'ga': 231, 'gd': -21}
+{'name': 'Ottawa Senators', 'year': 2002, 'wins': 52, 'losses': 21, 'ot-losses': 1, 'win%': 0.634, 'gf': 263, 'ga': 182, 'gd': 81}
+{'name': 'Philadelphia Flyers', 'year': 2002, 'wins': 45, 'losses': 20, 'ot-losses': 4, 'win%': 0.549, 'gf': 211, 'ga': 166, 'gd': 45}
+{'name': 'Phoenix Coyotes', 'year': 2002, 'wins': 31, 'losses': 35, 'ot-losses': 5, 'win%': 0.378, 'gf': 204, 'ga': 230, 'gd': -26}
+{'name': 'Pittsburgh Penguins', 'year': 2002, 'wins': 27, 'losses': 44, 'ot-losses': 5, 'win%': 0.329, 'gf': 189, 'ga': 255, 'gd': -66}
+{'name': 'San Jose Sharks', 'year': 2002, 'wins': 28, 'losses': 37, 'ot-losses': 8, 'win%': 0.341, 'gf': 214, 'ga': 239, 'gd': -25}
+{'name': 'St. Louis Blues', 'year': 2002, 'wins': 41, 'losses': 24, 'ot-losses': 6, 'win%': 0.5, 'gf': 253, 'ga': 222, 'gd': 31}
+{'name': 'Tampa Bay Lightning', 'year': 2002, 'wins': 36, 'losses': 25, 'ot-losses': 5, 'win%': 0.439, 'gf': 219, 'ga': 210, 'gd': 9}
+{'name': 'Toronto Maple Leafs', 'year': 2002, 'wins': 44, 'losses': 28, 'ot-losses': 3, 'win%': 0.537, 'gf': 236, 'ga': 208, 'gd': 28}
+{'name': 'Vancouver Canucks', 'year': 2002, 'wins': 45, 'losses': 23, 'ot-losses': 1, 'win%': 0.549, 'gf': 264, 'ga': 208, 'gd': 56}
+{'name': 'Washington Capitals', 'year': 2002, 'wins': 39, 'losses': 29, 'ot-losses': 6, 'win%': 0.476, 'gf': 224, 'ga': 220, 'gd': 4}
+{'name': 'Mighty Ducks of Anaheim', 'year': 2003, 'wins': 29, 'losses': 35, 'ot-losses': 8, 'win%': 0.354, 'gf': 184, 'ga': 213, 'gd': -29}
+{'name': 'Atlanta Thrashers', 'year': 2003, 'wins': 33, 'losses': 37, 'ot-losses': 4, 'win%': 0.402, 'gf': 214, 'ga': 243, 'gd': -29}
+{'name': 'Boston Bruins', 'year': 2003, 'wins': 41, 'losses': 19, 'ot-losses': 7, 'win%': 0.5, 'gf': 209, 'ga': 188, 'gd': 21}
+{'name': 'Buffalo Sabres', 'year': 2003, 'wins': 37, 'losses': 34, 'ot-losses': 4, 'win%': 0.451, 'gf': 220, 'ga': 221, 'gd': -1}
+{'name': 'Calgary Flames', 'year': 2003, 'wins': 42, 'losses': 30, 'ot-losses': 3, 'win%': 0.512, 'gf': 200, 'ga': 176, 'gd': 24}
+{'name': 'Carolina Hurricanes', 'year': 2003, 'wins': 28, 'losses': 34, 'ot-losses': 6, 'win%': 0.341, 'gf': 172, 'ga': 209, 'gd': -37}
+{'name': 'Columbus Blue Jackets', 'year': 2003, 'wins': 25, 'losses': 45, 'ot-losses': 4, 'win%': 0.305, 'gf': 177, 'ga': 238, 'gd': -61}
+{'name': 'Chicago Blackhawks', 'year': 2003, 'wins': 20, 'losses': 43, 'ot-losses': 8, 'win%': 0.244, 'gf': 188, 'ga': 259, 'gd': -71}
+{'name': 'Colorado Avalanche', 'year': 2003, 'wins': 40, 'losses': 22, 'ot-losses': 7, 'win%': 0.488, 'gf': 236, 'ga': 198, 'gd': 38}
+{'name': 'Dallas Stars', 'year': 2003, 'wins': 41, 'losses': 26, 'ot-losses': 2, 'win%': 0.5, 'gf': 194, 'ga': 175, 'gd': 19}
+{'name': 'Detroit Red Wings', 'year': 2003, 'wins': 48, 'losses': 21, 'ot-losses': 2, 'win%': 0.585, 'gf': 255, 'ga': 189, 'gd': 66}
+{'name': 'Edmonton Oilers', 'year': 2003, 'wins': 36, 'losses': 29, 'ot-losses': 5, 'win%': 0.439, 'gf': 221, 'ga': 208, 'gd': 13}
+{'name': 'Florida Panthers', 'year': 2003, 'wins': 28, 'losses': 35, 'ot-losses': 4, 'win%': 0.341, 'gf': 188, 'ga': 221, 'gd': -33}
+{'name': 'Los Angeles Kings', 'year': 2003, 'wins': 28, 'losses': 29, 'ot-losses': 9, 'win%': 0.341, 'gf': 205, 'ga': 217, 'gd': -12}
+{'name': 'Minnesota Wild', 'year': 2003, 'wins': 30, 'losses': 29, 'ot-losses': 3, 'win%': 0.366, 'gf': 188, 'ga': 183, 'gd': 5}
+{'name': 'Montreal Canadiens', 'year': 2003, 'wins': 41, 'losses': 30, 'ot-losses': 4, 'win%': 0.5, 'gf': 208, 'ga': 192, 'gd': 16}
+{'name': 'Nashville Predators', 'year': 2003, 'wins': 38, 'losses': 29, 'ot-losses': 4, 'win%': 0.463, 'gf': 216, 'ga': 217, 'gd': -1}
+{'name': 'New Jersey Devils', 'year': 2003, 'wins': 43, 'losses': 25, 'ot-losses': 2, 'win%': 0.524, 'gf': 213, 'ga': 164, 'gd': 49}
+{'name': 'New York Islanders', 'year': 2003, 'wins': 38, 'losses': 29, 'ot-losses': 4, 'win%': 0.463, 'gf': 237, 'ga': 210, 'gd': 27}
+{'name': 'New York Rangers', 'year': 2003, 'wins': 27, 'losses': 40, 'ot-losses': 8, 'win%': 0.329, 'gf': 206, 'ga': 250, 'gd': -44}
+{'name': 'Ottawa Senators', 'year': 2003, 'wins': 43, 'losses': 23, 'ot-losses': 6, 'win%': 0.524, 'gf': 262, 'ga': 189, 'gd': 73}
+{'name': 'Philadelphia Flyers', 'year': 2003, 'wins': 40, 'losses': 21, 'ot-losses': 6, 'win%': 0.488, 'gf': 229, 'ga': 186, 'gd': 43}
+{'name': 'Phoenix Coyotes', 'year': 2003, 'wins': 22, 'losses': 36, 'ot-losses': 6, 'win%': 0.268, 'gf': 188, 'ga': 245, 'gd': -57}
+{'name': 'Pittsburgh Penguins', 'year': 2003, 'wins': 23, 'losses': 47, 'ot-losses': 4, 'win%': 0.28, 'gf': 190, 'ga': 303, 'gd': -113}
+{'name': 'San Jose Sharks', 'year': 2003, 'wins': 43, 'losses': 21, 'ot-losses': 6, 'win%': 0.524, 'gf': 219, 'ga': 183, 'gd': 36}
+{'name': 'St. Louis Blues', 'year': 2003, 'wins': 39, 'losses': 30, 'ot-losses': 2, 'win%': 0.476, 'gf': 191, 'ga': 198, 'gd': -7}
+{'name': 'Tampa Bay Lightning', 'year': 2003, 'wins': 46, 'losses': 22, 'ot-losses': 6, 'win%': 0.561, 'gf': 245, 'ga': 192, 'gd': 53}
+{'name': 'Toronto Maple Leafs', 'year': 2003, 'wins': 45, 'losses': 24, 'ot-losses': 3, 'win%': 0.549, 'gf': 242, 'ga': 204, 'gd': 38}
+{'name': 'Vancouver Canucks', 'year': 2003, 'wins': 43, 'losses': 24, 'ot-losses': 5, 'win%': 0.524, 'gf': 235, 'ga': 194, 'gd': 41}
+{'name': 'Washington Capitals', 'year': 2003, 'wins': 23, 'losses': 46, 'ot-losses': 3, 'win%': 0.28, 'gf': 186, 'ga': 253, 'gd': -67}
+{'name': 'Mighty Ducks of Anaheim', 'year': 2005, 'wins': 43, 'losses': 27, 'ot-losses': 12, 'win%': 0.524, 'gf': 254, 'ga': 229, 'gd': 25}
+{'name': 'Atlanta Thrashers', 'year': 2005, 'wins': 41, 'losses': 33, 'ot-losses': 8, 'win%': 0.5, 'gf': 281, 'ga': 275, 'gd': 6}
+{'name': 'Boston Bruins', 'year': 2005, 'wins': 29, 'losses': 37, 'ot-losses': 16, 'win%': 0.354, 'gf': 230, 'ga': 266, 'gd': -36}
+{'name': 'Buffalo Sabres', 'year': 2005, 'wins': 52, 'losses': 24, 'ot-losses': 6, 'win%': 0.634, 'gf': 281, 'ga': 239, 'gd': 42}
+{'name': 'Calgary Flames', 'year': 2005, 'wins': 46, 'losses': 25, 'ot-losses': 11, 'win%': 0.561, 'gf': 218, 'ga': 200, 'gd': 18}
+{'name': 'Carolina Hurricanes', 'year': 2005, 'wins': 52, 'losses': 22, 'ot-losses': 8, 'win%': 0.634, 'gf': 294, 'ga': 260, 'gd': 34}
+{'name': 'Columbus Blue Jackets', 'year': 2005, 'wins': 35, 'losses': 43, 'ot-losses': 4, 'win%': 0.427, 'gf': 223, 'ga': 279, 'gd': -56}
+{'name': 'Chicago Blackhawks', 'year': 2005, 'wins': 26, 'losses': 43, 'ot-losses': 13, 'win%': 0.317, 'gf': 211, 'ga': 285, 'gd': -74}
+{'name': 'Colorado Avalanche', 'year': 2005, 'wins': 43, 'losses': 30, 'ot-losses': 9, 'win%': 0.524, 'gf': 283, 'ga': 257, 'gd': 26}
+{'name': 'Dallas Stars', 'year': 2005, 'wins': 53, 'losses': 23, 'ot-losses': 6, 'win%': 0.646, 'gf': 265, 'ga': 218, 'gd': 47}
+{'name': 'Detroit Red Wings', 'year': 2005, 'wins': 58, 'losses': 16, 'ot-losses': 8, 'win%': 0.707, 'gf': 305, 'ga': 209, 'gd': 96}
+{'name': 'Edmonton Oilers', 'year': 2005, 'wins': 41, 'losses': 28, 'ot-losses': 13, 'win%': 0.5, 'gf': 256, 'ga': 251, 'gd': 5}
+{'name': 'Florida Panthers', 'year': 2005, 'wins': 37, 'losses': 34, 'ot-losses': 11, 'win%': 0.451, 'gf': 240, 'ga': 257, 'gd': -17}
+{'name': 'Los Angeles Kings', 'year': 2005, 'wins': 42, 'losses': 35, 'ot-losses': 5, 'win%': 0.512, 'gf': 249, 'ga': 270, 'gd': -21}
+{'name': 'Minnesota Wild', 'year': 2005, 'wins': 38, 'losses': 36, 'ot-losses': 8, 'win%': 0.463, 'gf': 231, 'ga': 215, 'gd': 16}
+{'name': 'Montreal Canadiens', 'year': 2005, 'wins': 42, 'losses': 31, 'ot-losses': 9, 'win%': 0.512, 'gf': 243, 'ga': 247, 'gd': -4}
+{'name': 'Nashville Predators', 'year': 2005, 'wins': 49, 'losses': 25, 'ot-losses': 8, 'win%': 0.598, 'gf': 259, 'ga': 227, 'gd': 32}
+{'name': 'New Jersey Devils', 'year': 2005, 'wins': 46, 'losses': 27, 'ot-losses': 9, 'win%': 0.561, 'gf': 242, 'ga': 229, 'gd': 13}
+{'name': 'New York Islanders', 'year': 2005, 'wins': 36, 'losses': 40, 'ot-losses': 6, 'win%': 0.439, 'gf': 230, 'ga': 278, 'gd': -48}
+{'name': 'New York Rangers', 'year': 2005, 'wins': 44, 'losses': 26, 'ot-losses': 12, 'win%': 0.537, 'gf': 257, 'ga': 215, 'gd': 42}
+{'name': 'Ottawa Senators', 'year': 2005, 'wins': 52, 'losses': 21, 'ot-losses': 9, 'win%': 0.634, 'gf': 314, 'ga': 211, 'gd': 103}
+{'name': 'Philadelphia Flyers', 'year': 2005, 'wins': 45, 'losses': 26, 'ot-losses': 11, 'win%': 0.549, 'gf': 267, 'ga': 259, 'gd': 8}
+{'name': 'Phoenix Coyotes', 'year': 2005, 'wins': 38, 'losses': 39, 'ot-losses': 5, 'win%': 0.463, 'gf': 246, 'ga': 271, 'gd': -25}
+{'name': 'Pittsburgh Penguins', 'year': 2005, 'wins': 22, 'losses': 46, 'ot-losses': 14, 'win%': 0.268, 'gf': 244, 'ga': 316, 'gd': -72}
+{'name': 'San Jose Sharks', 'year': 2005, 'wins': 44, 'losses': 27, 'ot-losses': 11, 'win%': 0.537, 'gf': 266, 'ga': 242, 'gd': 24}
+{'name': 'St. Louis Blues', 'year': 2005, 'wins': 21, 'losses': 46, 'ot-losses': 15, 'win%': 0.256, 'gf': 197, 'ga': 292, 'gd': -95}
+{'name': 'Tampa Bay Lightning', 'year': 2005, 'wins': 43, 'losses': 33, 'ot-losses': 6, 'win%': 0.524, 'gf': 252, 'ga': 260, 'gd': -8}
+{'name': 'Toronto Maple Leafs', 'year': 2005, 'wins': 41, 'losses': 33, 'ot-losses': 8, 'win%': 0.5, 'gf': 257, 'ga': 270, 'gd': -13}
+{'name': 'Vancouver Canucks', 'year': 2005, 'wins': 42, 'losses': 32, 'ot-losses': 8, 'win%': 0.512, 'gf': 256, 'ga': 255, 'gd': 1}
+{'name': 'Washington Capitals', 'year': 2005, 'wins': 29, 'losses': 41, 'ot-losses': 12, 'win%': 0.354, 'gf': 237, 'ga': 306, 'gd': -69}
+{'name': 'Anaheim Ducks', 'year': 2006, 'wins': 48, 'losses': 20, 'ot-losses': 14, 'win%': 0.585, 'gf': 258, 'ga': 208, 'gd': 50}
+{'name': 'Atlanta Thrashers', 'year': 2006, 'wins': 43, 'losses': 28, 'ot-losses': 11, 'win%': 0.524, 'gf': 246, 'ga': 245, 'gd': 1}
+{'name': 'Boston Bruins', 'year': 2006, 'wins': 35, 'losses': 41, 'ot-losses': 6, 'win%': 0.427, 'gf': 219, 'ga': 289, 'gd': -70}
+{'name': 'Buffalo Sabres', 'year': 2006, 'wins': 53, 'losses': 22, 'ot-losses': 7, 'win%': 0.646, 'gf': 308, 'ga': 242, 'gd': 66}
+{'name': 'Calgary Flames', 'year': 2006, 'wins': 43, 'losses': 29, 'ot-losses': 10, 'win%': 0.524, 'gf': 258, 'ga': 226, 'gd': 32}
+{'name': 'Carolina Hurricanes', 'year': 2006, 'wins': 40, 'losses': 34, 'ot-losses': 8, 'win%': 0.488, 'gf': 241, 'ga': 253, 'gd': -12}
+{'name': 'Columbus Blue Jackets', 'year': 2006, 'wins': 33, 'losses': 42, 'ot-losses': 7, 'win%': 0.402, 'gf': 201, 'ga': 249, 'gd': -48}
+{'name': 'Chicago Blackhawks', 'year': 2006, 'wins': 31, 'losses': 42, 'ot-losses': 9, 'win%': 0.378, 'gf': 201, 'ga': 258, 'gd': -57}
+{'name': 'Colorado Avalanche', 'year': 2006, 'wins': 44, 'losses': 31, 'ot-losses': 7, 'win%': 0.537, 'gf': 272, 'ga': 251, 'gd': 21}
+{'name': 'Dallas Stars', 'year': 2006, 'wins': 50, 'losses': 25, 'ot-losses': 7, 'win%': 0.61, 'gf': 226, 'ga': 197, 'gd': 29}
+{'name': 'Detroit Red Wings', 'year': 2006, 'wins': 50, 'losses': 19, 'ot-losses': 13, 'win%': 0.61, 'gf': 254, 'ga': 199, 'gd': 55}
+{'name': 'Edmonton Oilers', 'year': 2006, 'wins': 32, 'losses': 43, 'ot-losses': 7, 'win%': 0.39, 'gf': 195, 'ga': 248, 'gd': -53}
+{'name': 'Florida Panthers', 'year': 2006, 'wins': 35, 'losses': 31, 'ot-losses': 16, 'win%': 0.427, 'gf': 247, 'ga': 257, 'gd': -10}
+{'name': 'Los Angeles Kings', 'year': 2006, 'wins': 27, 'losses': 41, 'ot-losses': 14, 'win%': 0.329, 'gf': 227, 'ga': 283, 'gd': -56}
+{'name': 'Minnesota Wild', 'year': 2006, 'wins': 48, 'losses': 26, 'ot-losses': 8, 'win%': 0.585, 'gf': 235, 'ga': 191, 'gd': 44}
+{'name': 'Montreal Canadiens', 'year': 2006, 'wins': 42, 'losses': 34, 'ot-losses': 6, 'win%': 0.512, 'gf': 245, 'ga': 256, 'gd': -11}
+{'name': 'Nashville Predators', 'year': 2006, 'wins': 51, 'losses': 23, 'ot-losses': 8, 'win%': 0.622, 'gf': 272, 'ga': 212, 'gd': 60}
+{'name': 'New Jersey Devils', 'year': 2006, 'wins': 49, 'losses': 24, 'ot-losses': 9, 'win%': 0.598, 'gf': 216, 'ga': 201, 'gd': 15}
+{'name': 'New York Islanders', 'year': 2006, 'wins': 40, 'losses': 30, 'ot-losses': 12, 'win%': 0.488, 'gf': 248, 'ga': 240, 'gd': 8}
+{'name': 'New York Rangers', 'year': 2006, 'wins': 42, 'losses': 30, 'ot-losses': 10, 'win%': 0.512, 'gf': 242, 'ga': 216, 'gd': 26}
+{'name': 'Ottawa Senators', 'year': 2006, 'wins': 48, 'losses': 25, 'ot-losses': 9, 'win%': 0.585, 'gf': 288, 'ga': 222, 'gd': 66}
+{'name': 'Philadelphia Flyers', 'year': 2006, 'wins': 22, 'losses': 48, 'ot-losses': 12, 'win%': 0.268, 'gf': 214, 'ga': 303, 'gd': -89}
+{'name': 'Phoenix Coyotes', 'year': 2006, 'wins': 31, 'losses': 46, 'ot-losses': 5, 'win%': 0.378, 'gf': 216, 'ga': 284, 'gd': -68}
+{'name': 'Pittsburgh Penguins', 'year': 2006, 'wins': 47, 'losses': 24, 'ot-losses': 11, 'win%': 0.573, 'gf': 277, 'ga': 246, 'gd': 31}
+{'name': 'San Jose Sharks', 'year': 2006, 'wins': 51, 'losses': 26, 'ot-losses': 5, 'win%': 0.622, 'gf': 258, 'ga': 199, 'gd': 59}
+{'name': 'St. Louis Blues', 'year': 2006, 'wins': 34, 'losses': 35, 'ot-losses': 13, 'win%': 0.415, 'gf': 214, 'ga': 254, 'gd': -40}
+{'name': 'Tampa Bay Lightning', 'year': 2006, 'wins': 44, 'losses': 33, 'ot-losses': 5, 'win%': 0.537, 'gf': 253, 'ga': 261, 'gd': -8}
+{'name': 'Toronto Maple Leafs', 'year': 2006, 'wins': 40, 'losses': 31, 'ot-losses': 11, 'win%': 0.488, 'gf': 258, 'ga': 269, 'gd': -11}
+{'name': 'Vancouver Canucks', 'year': 2006, 'wins': 49, 'losses': 26, 'ot-losses': 7, 'win%': 0.598, 'gf': 222, 'ga': 201, 'gd': 21}
+{'name': 'Washington Capitals', 'year': 2006, 'wins': 28, 'losses': 40, 'ot-losses': 14, 'win%': 0.341, 'gf': 235, 'ga': 286, 'gd': -51}
+{'name': 'Anaheim Ducks', 'year': 2007, 'wins': 47, 'losses': 27, 'ot-losses': 8, 'win%': 0.573, 'gf': 205, 'ga': 191, 'gd': 14}
+{'name': 'Atlanta Thrashers', 'year': 2007, 'wins': 34, 'losses': 40, 'ot-losses': 8, 'win%': 0.415, 'gf': 216, 'ga': 272, 'gd': -56}
+{'name': 'Boston Bruins', 'year': 2007, 'wins': 41, 'losses': 29, 'ot-losses': 12, 'win%': 0.5, 'gf': 212, 'ga': 222, 'gd': -10}
+{'name': 'Buffalo Sabres', 'year': 2007, 'wins': 39, 'losses': 31, 'ot-losses': 12, 'win%': 0.476, 'gf': 255, 'ga': 242, 'gd': 13}
+{'name': 'Calgary Flames', 'year': 2007, 'wins': 42, 'losses': 30, 'ot-losses': 10, 'win%': 0.512, 'gf': 229, 'ga': 227, 'gd': 2}
+{'name': 'Carolina Hurricanes', 'year': 2007, 'wins': 43, 'losses': 33, 'ot-losses': 6, 'win%': 0.524, 'gf': 252, 'ga': 249, 'gd': 3}
+{'name': 'Columbus Blue Jackets', 'year': 2007, 'wins': 34, 'losses': 36, 'ot-losses': 12, 'win%': 0.415, 'gf': 193, 'ga': 218, 'gd': -25}
+{'name': 'Chicago Blackhawks', 'year': 2007, 'wins': 40, 'losses': 34, 'ot-losses': 8, 'win%': 0.488, 'gf': 239, 'ga': 235, 'gd': 4}
+{'name': 'Colorado Avalanche', 'year': 2007, 'wins': 44, 'losses': 31, 'ot-losses': 7, 'win%': 0.537, 'gf': 231, 'ga': 219, 'gd': 12}
+{'name': 'Dallas Stars', 'year': 2007, 'wins': 45, 'losses': 30, 'ot-losses': 7, 'win%': 0.549, 'gf': 242, 'ga': 207, 'gd': 35}
+{'name': 'Detroit Red Wings', 'year': 2007, 'wins': 54, 'losses': 21, 'ot-losses': 7, 'win%': 0.659, 'gf': 257, 'ga': 184, 'gd': 73}
+{'name': 'Edmonton Oilers', 'year': 2007, 'wins': 41, 'losses': 35, 'ot-losses': 6, 'win%': 0.5, 'gf': 235, 'ga': 251, 'gd': -16}
+{'name': 'Florida Panthers', 'year': 2007, 'wins': 38, 'losses': 35, 'ot-losses': 9, 'win%': 0.463, 'gf': 216, 'ga': 226, 'gd': -10}
+{'name': 'Los Angeles Kings', 'year': 2007, 'wins': 32, 'losses': 43, 'ot-losses': 7, 'win%': 0.39, 'gf': 231, 'ga': 266, 'gd': -35}
+{'name': 'Minnesota Wild', 'year': 2007, 'wins': 44, 'losses': 28, 'ot-losses': 10, 'win%': 0.537, 'gf': 223, 'ga': 218, 'gd': 5}
+{'name': 'Montreal Canadiens', 'year': 2007, 'wins': 47, 'losses': 25, 'ot-losses': 10, 'win%': 0.573, 'gf': 262, 'ga': 222, 'gd': 40}
+{'name': 'Nashville Predators', 'year': 2007, 'wins': 41, 'losses': 32, 'ot-losses': 9, 'win%': 0.5, 'gf': 230, 'ga': 229, 'gd': 1}
+{'name': 'New Jersey Devils', 'year': 2007, 'wins': 46, 'losses': 29, 'ot-losses': 7, 'win%': 0.561, 'gf': 206, 'ga': 197, 'gd': 9}
+{'name': 'New York Islanders', 'year': 2007, 'wins': 35, 'losses': 38, 'ot-losses': 9, 'win%': 0.427, 'gf': 194, 'ga': 243, 'gd': -49}
+{'name': 'New York Rangers', 'year': 2007, 'wins': 42, 'losses': 27, 'ot-losses': 13, 'win%': 0.512, 'gf': 213, 'ga': 199, 'gd': 14}
+{'name': 'Ottawa Senators', 'year': 2007, 'wins': 43, 'losses': 31, 'ot-losses': 8, 'win%': 0.524, 'gf': 261, 'ga': 247, 'gd': 14}
+{'name': 'Philadelphia Flyers', 'year': 2007, 'wins': 42, 'losses': 29, 'ot-losses': 11, 'win%': 0.512, 'gf': 248, 'ga': 233, 'gd': 15}
+{'name': 'Phoenix Coyotes', 'year': 2007, 'wins': 38, 'losses': 37, 'ot-losses': 7, 'win%': 0.463, 'gf': 214, 'ga': 231, 'gd': -17}
+{'name': 'Pittsburgh Penguins', 'year': 2007, 'wins': 47, 'losses': 27, 'ot-losses': 8, 'win%': 0.573, 'gf': 247, 'ga': 216, 'gd': 31}
+{'name': 'San Jose Sharks', 'year': 2007, 'wins': 49, 'losses': 23, 'ot-losses': 10, 'win%': 0.598, 'gf': 222, 'ga': 193, 'gd': 29}
+{'name': 'St. Louis Blues', 'year': 2007, 'wins': 33, 'losses': 36, 'ot-losses': 13, 'win%': 0.402, 'gf': 205, 'ga': 237, 'gd': -32}
+{'name': 'Tampa Bay Lightning', 'year': 2007, 'wins': 31, 'losses': 42, 'ot-losses': 9, 'win%': 0.378, 'gf': 223, 'ga': 267, 'gd': -44}
+{'name': 'Toronto Maple Leafs', 'year': 2007, 'wins': 36, 'losses': 35, 'ot-losses': 11, 'win%': 0.439, 'gf': 231, 'ga': 260, 'gd': -29}
+{'name': 'Vancouver Canucks', 'year': 2007, 'wins': 39, 'losses': 33, 'ot-losses': 10, 'win%': 0.476, 'gf': 213, 'ga': 215, 'gd': -2}
+{'name': 'Washington Capitals', 'year': 2007, 'wins': 43, 'losses': 31, 'ot-losses': 8, 'win%': 0.524, 'gf': 242, 'ga': 231, 'gd': 11}
+{'name': 'Anaheim Ducks', 'year': 2008, 'wins': 42, 'losses': 33, 'ot-losses': 7, 'win%': 0.512, 'gf': 245, 'ga': 238, 'gd': 7}
+{'name': 'Atlanta Thrashers', 'year': 2008, 'wins': 35, 'losses': 41, 'ot-losses': 6, 'win%': 0.427, 'gf': 257, 'ga': 280, 'gd': -23}
+{'name': 'Boston Bruins', 'year': 2008, 'wins': 53, 'losses': 19, 'ot-losses': 10, 'win%': 0.646, 'gf': 274, 'ga': 196, 'gd': 78}
+{'name': 'Buffalo Sabres', 'year': 2008, 'wins': 41, 'losses': 32, 'ot-losses': 9, 'win%': 0.5, 'gf': 250, 'ga': 234, 'gd': 16}
+{'name': 'Calgary Flames', 'year': 2008, 'wins': 46, 'losses': 30, 'ot-losses': 6, 'win%': 0.561, 'gf': 254, 'ga': 248, 'gd': 6}
+{'name': 'Carolina Hurricanes', 'year': 2008, 'wins': 45, 'losses': 30, 'ot-losses': 7, 'win%': 0.549, 'gf': 239, 'ga': 226, 'gd': 13}
+{'name': 'Columbus Blue Jackets', 'year': 2008, 'wins': 41, 'losses': 31, 'ot-losses': 10, 'win%': 0.5, 'gf': 226, 'ga': 230, 'gd': -4}
+{'name': 'Chicago Blackhawks', 'year': 2008, 'wins': 46, 'losses': 24, 'ot-losses': 12, 'win%': 0.561, 'gf': 264, 'ga': 216, 'gd': 48}
+{'name': 'Colorado Avalanche', 'year': 2008, 'wins': 32, 'losses': 45, 'ot-losses': 5, 'win%': 0.39, 'gf': 199, 'ga': 257, 'gd': -58}
+{'name': 'Dallas Stars', 'year': 2008, 'wins': 36, 'losses': 35, 'ot-losses': 11, 'win%': 0.439, 'gf': 230, 'ga': 257, 'gd': -27}
+{'name': 'Detroit Red Wings', 'year': 2008, 'wins': 51, 'losses': 21, 'ot-losses': 10, 'win%': 0.622, 'gf': 295, 'ga': 244, 'gd': 51}
+{'name': 'Edmonton Oilers', 'year': 2008, 'wins': 38, 'losses': 35, 'ot-losses': 9, 'win%': 0.463, 'gf': 234, 'ga': 248, 'gd': -14}
+{'name': 'Florida Panthers', 'year': 2008, 'wins': 41, 'losses': 30, 'ot-losses': 11, 'win%': 0.5, 'gf': 234, 'ga': 231, 'gd': 3}
+{'name': 'Los Angeles Kings', 'year': 2008, 'wins': 34, 'losses': 37, 'ot-losses': 11, 'win%': 0.415, 'gf': 207, 'ga': 234, 'gd': -27}
+{'name': 'Minnesota Wild', 'year': 2008, 'wins': 40, 'losses': 33, 'ot-losses': 9, 'win%': 0.488, 'gf': 219, 'ga': 200, 'gd': 19}
+{'name': 'Montreal Canadiens', 'year': 2008, 'wins': 41, 'losses': 30, 'ot-losses': 11, 'win%': 0.5, 'gf': 249, 'ga': 247, 'gd': 2}
+{'name': 'Nashville Predators', 'year': 2008, 'wins': 40, 'losses': 34, 'ot-losses': 8, 'win%': 0.488, 'gf': 213, 'ga': 233, 'gd': -20}
+{'name': 'New Jersey Devils', 'year': 2008, 'wins': 51, 'losses': 27, 'ot-losses': 4, 'win%': 0.622, 'gf': 244, 'ga': 209, 'gd': 35}
+{'name': 'New York Islanders', 'year': 2008, 'wins': 26, 'losses': 47, 'ot-losses': 9, 'win%': 0.317, 'gf': 201, 'ga': 279, 'gd': -78}
+{'name': 'New York Rangers', 'year': 2008, 'wins': 43, 'losses': 30, 'ot-losses': 9, 'win%': 0.524, 'gf': 210, 'ga': 218, 'gd': -8}
+{'name': 'Ottawa Senators', 'year': 2008, 'wins': 36, 'losses': 35, 'ot-losses': 11, 'win%': 0.439, 'gf': 217, 'ga': 237, 'gd': -20}
+{'name': 'Philadelphia Flyers', 'year': 2008, 'wins': 44, 'losses': 27, 'ot-losses': 11, 'win%': 0.537, 'gf': 264, 'ga': 238, 'gd': 26}
+{'name': 'Phoenix Coyotes', 'year': 2008, 'wins': 36, 'losses': 39, 'ot-losses': 7, 'win%': 0.439, 'gf': 208, 'ga': 252, 'gd': -44}
+{'name': 'Pittsburgh Penguins', 'year': 2008, 'wins': 45, 'losses': 28, 'ot-losses': 9, 'win%': 0.549, 'gf': 264, 'ga': 239, 'gd': 25}
+{'name': 'San Jose Sharks', 'year': 2008, 'wins': 53, 'losses': 18, 'ot-losses': 11, 'win%': 0.646, 'gf': 257, 'ga': 204, 'gd': 53}
+{'name': 'St. Louis Blues', 'year': 2008, 'wins': 41, 'losses': 31, 'ot-losses': 10, 'win%': 0.5, 'gf': 233, 'ga': 233, 'gd': 0}
+{'name': 'Tampa Bay Lightning', 'year': 2008, 'wins': 24, 'losses': 40, 'ot-losses': 18, 'win%': 0.293, 'gf': 210, 'ga': 279, 'gd': -69}
+{'name': 'Toronto Maple Leafs', 'year': 2008, 'wins': 34, 'losses': 35, 'ot-losses': 13, 'win%': 0.415, 'gf': 250, 'ga': 293, 'gd': -43}
+{'name': 'Vancouver Canucks', 'year': 2008, 'wins': 45, 'losses': 27, 'ot-losses': 10, 'win%': 0.549, 'gf': 246, 'ga': 220, 'gd': 26}
+{'name': 'Washington Capitals', 'year': 2008, 'wins': 50, 'losses': 24, 'ot-losses': 8, 'win%': 0.61, 'gf': 272, 'ga': 245, 'gd': 27}
+{'name': 'Anaheim Ducks', 'year': 2009, 'wins': 39, 'losses': 32, 'ot-losses': 11, 'win%': 0.476, 'gf': 238, 'ga': 251, 'gd': -13}
+{'name': 'Atlanta Thrashers', 'year': 2009, 'wins': 35, 'losses': 34, 'ot-losses': 13, 'win%': 0.427, 'gf': 234, 'ga': 256, 'gd': -22}
+{'name': 'Boston Bruins', 'year': 2009, 'wins': 39, 'losses': 30, 'ot-losses': 13, 'win%': 0.476, 'gf': 206, 'ga': 200, 'gd': 6}
+{'name': 'Buffalo Sabres', 'year': 2009, 'wins': 45, 'losses': 27, 'ot-losses': 10, 'win%': 0.549, 'gf': 235, 'ga': 207, 'gd': 28}
+{'name': 'Calgary Flames', 'year': 2009, 'wins': 40, 'losses': 32, 'ot-losses': 10, 'win%': 0.488, 'gf': 204, 'ga': 210, 'gd': -6}
+{'name': 'Carolina Hurricanes', 'year': 2009, 'wins': 35, 'losses': 37, 'ot-losses': 10, 'win%': 0.427, 'gf': 230, 'ga': 256, 'gd': -26}
+{'name': 'Columbus Blue Jackets', 'year': 2009, 'wins': 32, 'losses': 35, 'ot-losses': 15, 'win%': 0.39, 'gf': 216, 'ga': 259, 'gd': -43}
+{'name': 'Chicago Blackhawks', 'year': 2009, 'wins': 52, 'losses': 22, 'ot-losses': 8, 'win%': 0.634, 'gf': 271, 'ga': 209, 'gd': 62}
+{'name': 'Colorado Avalanche', 'year': 2009, 'wins': 43, 'losses': 30, 'ot-losses': 9, 'win%': 0.524, 'gf': 244, 'ga': 233, 'gd': 11}
+{'name': 'Dallas Stars', 'year': 2009, 'wins': 37, 'losses': 31, 'ot-losses': 14, 'win%': 0.451, 'gf': 237, 'ga': 254, 'gd': -17}
+{'name': 'Detroit Red Wings', 'year': 2009, 'wins': 44, 'losses': 24, 'ot-losses': 14, 'win%': 0.537, 'gf': 229, 'ga': 216, 'gd': 13}
+{'name': 'Edmonton Oilers', 'year': 2009, 'wins': 27, 'losses': 47, 'ot-losses': 8, 'win%': 0.329, 'gf': 214, 'ga': 284, 'gd': -70}
+{'name': 'Florida Panthers', 'year': 2009, 'wins': 32, 'losses': 37, 'ot-losses': 13, 'win%': 0.39, 'gf': 208, 'ga': 244, 'gd': -36}
+{'name': 'Los Angeles Kings', 'year': 2009, 'wins': 46, 'losses': 27, 'ot-losses': 9, 'win%': 0.561, 'gf': 241, 'ga': 219, 'gd': 22}
+{'name': 'Minnesota Wild', 'year': 2009, 'wins': 38, 'losses': 36, 'ot-losses': 8, 'win%': 0.463, 'gf': 219, 'ga': 246, 'gd': -27}
+{'name': 'Montreal Canadiens', 'year': 2009, 'wins': 39, 'losses': 33, 'ot-losses': 10, 'win%': 0.476, 'gf': 217, 'ga': 223, 'gd': -6}
+{'name': 'Nashville Predators', 'year': 2009, 'wins': 47, 'losses': 29, 'ot-losses': 6, 'win%': 0.573, 'gf': 225, 'ga': 225, 'gd': 0}
+{'name': 'New Jersey Devils', 'year': 2009, 'wins': 48, 'losses': 27, 'ot-losses': 7, 'win%': 0.585, 'gf': 222, 'ga': 191, 'gd': 31}
+{'name': 'New York Islanders', 'year': 2009, 'wins': 34, 'losses': 37, 'ot-losses': 11, 'win%': 0.415, 'gf': 222, 'ga': 264, 'gd': -42}
+{'name': 'New York Rangers', 'year': 2009, 'wins': 38, 'losses': 33, 'ot-losses': 11, 'win%': 0.463, 'gf': 222, 'ga': 218, 'gd': 4}
+{'name': 'Ottawa Senators', 'year': 2009, 'wins': 44, 'losses': 32, 'ot-losses': 6, 'win%': 0.537, 'gf': 225, 'ga': 238, 'gd': -13}
+{'name': 'Philadelphia Flyers', 'year': 2009, 'wins': 41, 'losses': 35, 'ot-losses': 6, 'win%': 0.5, 'gf': 236, 'ga': 225, 'gd': 11}
+{'name': 'Phoenix Coyotes', 'year': 2009, 'wins': 50, 'losses': 25, 'ot-losses': 7, 'win%': 0.61, 'gf': 225, 'ga': 202, 'gd': 23}
+{'name': 'Pittsburgh Penguins', 'year': 2009, 'wins': 47, 'losses': 28, 'ot-losses': 7, 'win%': 0.573, 'gf': 257, 'ga': 237, 'gd': 20}
+{'name': 'San Jose Sharks', 'year': 2009, 'wins': 51, 'losses': 20, 'ot-losses': 11, 'win%': 0.622, 'gf': 264, 'ga': 215, 'gd': 49}
+{'name': 'St. Louis Blues', 'year': 2009, 'wins': 40, 'losses': 32, 'ot-losses': 10, 'win%': 0.488, 'gf': 225, 'ga': 223, 'gd': 2}
+{'name': 'Tampa Bay Lightning', 'year': 2009, 'wins': 34, 'losses': 36, 'ot-losses': 12, 'win%': 0.415, 'gf': 217, 'ga': 260, 'gd': -43}
+{'name': 'Toronto Maple Leafs', 'year': 2009, 'wins': 30, 'losses': 38, 'ot-losses': 14, 'win%': 0.366, 'gf': 214, 'ga': 267, 'gd': -53}
+{'name': 'Vancouver Canucks', 'year': 2009, 'wins': 49, 'losses': 28, 'ot-losses': 5, 'win%': 0.598, 'gf': 272, 'ga': 222, 'gd': 50}
+{'name': 'Washington Capitals', 'year': 2009, 'wins': 54, 'losses': 15, 'ot-losses': 13, 'win%': 0.659, 'gf': 318, 'ga': 233, 'gd': 85}
+{'name': 'Anaheim Ducks', 'year': 2010, 'wins': 47, 'losses': 30, 'ot-losses': 5, 'win%': 0.573, 'gf': 239, 'ga': 235, 'gd': 4}
+{'name': 'Atlanta Thrashers', 'year': 2010, 'wins': 34, 'losses': 36, 'ot-losses': 12, 'win%': 0.415, 'gf': 223, 'ga': 269, 'gd': -46}
+{'name': 'Boston Bruins', 'year': 2010, 'wins': 46, 'losses': 25, 'ot-losses': 11, 'win%': 0.561, 'gf': 246, 'ga': 195, 'gd': 51}
+{'name': 'Buffalo Sabres', 'year': 2010, 'wins': 43, 'losses': 29, 'ot-losses': 10, 'win%': 0.524, 'gf': 245, 'ga': 229, 'gd': 16}
+{'name': 'Calgary Flames', 'year': 2010, 'wins': 41, 'losses': 29, 'ot-losses': 12, 'win%': 0.5, 'gf': 250, 'ga': 237, 'gd': 13}
+{'name': 'Carolina Hurricanes', 'year': 2010, 'wins': 40, 'losses': 31, 'ot-losses': 11, 'win%': 0.488, 'gf': 236, 'ga': 239, 'gd': -3}
+{'name': 'Columbus Blue Jackets', 'year': 2010, 'wins': 34, 'losses': 35, 'ot-losses': 13, 'win%': 0.415, 'gf': 215, 'ga': 258, 'gd': -43}
+{'name': 'Chicago Blackhawks', 'year': 2010, 'wins': 44, 'losses': 29, 'ot-losses': 9, 'win%': 0.537, 'gf': 258, 'ga': 225, 'gd': 33}
+{'name': 'Colorado Avalanche', 'year': 2010, 'wins': 30, 'losses': 44, 'ot-losses': 8, 'win%': 0.366, 'gf': 227, 'ga': 288, 'gd': -61}
+{'name': 'Dallas Stars', 'year': 2010, 'wins': 42, 'losses': 29, 'ot-losses': 11, 'win%': 0.512, 'gf': 227, 'ga': 233, 'gd': -6}
+{'name': 'Detroit Red Wings', 'year': 2010, 'wins': 47, 'losses': 25, 'ot-losses': 10, 'win%': 0.573, 'gf': 261, 'ga': 241, 'gd': 20}
+{'name': 'Edmonton Oilers', 'year': 2010, 'wins': 25, 'losses': 45, 'ot-losses': 12, 'win%': 0.305, 'gf': 193, 'ga': 269, 'gd': -76}
+{'name': 'Florida Panthers', 'year': 2010, 'wins': 30, 'losses': 40, 'ot-losses': 12, 'win%': 0.366, 'gf': 195, 'ga': 229, 'gd': -34}
+{'name': 'Los Angeles Kings', 'year': 2010, 'wins': 46, 'losses': 30, 'ot-losses': 6, 'win%': 0.561, 'gf': 219, 'ga': 198, 'gd': 21}
+{'name': 'Minnesota Wild', 'year': 2010, 'wins': 39, 'losses': 35, 'ot-losses': 8, 'win%': 0.476, 'gf': 206, 'ga': 233, 'gd': -27}
+{'name': 'Montreal Canadiens', 'year': 2010, 'wins': 44, 'losses': 30, 'ot-losses': 8, 'win%': 0.537, 'gf': 216, 'ga': 209, 'gd': 7}
+{'name': 'Nashville Predators', 'year': 2010, 'wins': 44, 'losses': 27, 'ot-losses': 11, 'win%': 0.537, 'gf': 219, 'ga': 194, 'gd': 25}
+{'name': 'New Jersey Devils', 'year': 2010, 'wins': 38, 'losses': 39, 'ot-losses': 5, 'win%': 0.463, 'gf': 174, 'ga': 209, 'gd': -35}
+{'name': 'New York Islanders', 'year': 2010, 'wins': 30, 'losses': 39, 'ot-losses': 13, 'win%': 0.366, 'gf': 229, 'ga': 264, 'gd': -35}
+{'name': 'New York Rangers', 'year': 2010, 'wins': 44, 'losses': 33, 'ot-losses': 5, 'win%': 0.537, 'gf': 233, 'ga': 198, 'gd': 35}
+{'name': 'Ottawa Senators', 'year': 2010, 'wins': 32, 'losses': 40, 'ot-losses': 10, 'win%': 0.39, 'gf': 192, 'ga': 250, 'gd': -58}
+{'name': 'Philadelphia Flyers', 'year': 2010, 'wins': 47, 'losses': 23, 'ot-losses': 12, 'win%': 0.573, 'gf': 259, 'ga': 223, 'gd': 36}
+{'name': 'Phoenix Coyotes', 'year': 2010, 'wins': 43, 'losses': 26, 'ot-losses': 13, 'win%': 0.524, 'gf': 231, 'ga': 226, 'gd': 5}
+{'name': 'Pittsburgh Penguins', 'year': 2010, 'wins': 49, 'losses': 25, 'ot-losses': 8, 'win%': 0.598, 'gf': 238, 'ga': 199, 'gd': 39}
+{'name': 'San Jose Sharks', 'year': 2010, 'wins': 48, 'losses': 25, 'ot-losses': 9, 'win%': 0.585, 'gf': 248, 'ga': 213, 'gd': 35}
+{'name': 'St. Louis Blues', 'year': 2010, 'wins': 38, 'losses': 33, 'ot-losses': 11, 'win%': 0.463, 'gf': 240, 'ga': 234, 'gd': 6}
+{'name': 'Tampa Bay Lightning', 'year': 2010, 'wins': 46, 'losses': 25, 'ot-losses': 11, 'win%': 0.561, 'gf': 247, 'ga': 240, 'gd': 7}
+{'name': 'Toronto Maple Leafs', 'year': 2010, 'wins': 37, 'losses': 34, 'ot-losses': 11, 'win%': 0.451, 'gf': 218, 'ga': 251, 'gd': -33}
+{'name': 'Vancouver Canucks', 'year': 2010, 'wins': 54, 'losses': 19, 'ot-losses': 9, 'win%': 0.659, 'gf': 262, 'ga': 185, 'gd': 77}
+{'name': 'Washington Capitals', 'year': 2010, 'wins': 48, 'losses': 23, 'ot-losses': 11, 'win%': 0.585, 'gf': 224, 'ga': 197, 'gd': 27}
+{'name': 'Anaheim Ducks', 'year': 2011, 'wins': 34, 'losses': 36, 'ot-losses': 12, 'win%': 0.415, 'gf': 204, 'ga': 231, 'gd': -27}
+{'name': 'Boston Bruins', 'year': 2011, 'wins': 49, 'losses': 29, 'ot-losses': 4, 'win%': 0.598, 'gf': 269, 'ga': 202, 'gd': 67}
+{'name': 'Buffalo Sabres', 'year': 2011, 'wins': 39, 'losses': 32, 'ot-losses': 11, 'win%': 0.476, 'gf': 218, 'ga': 230, 'gd': -12}
+{'name': 'Calgary Flames', 'year': 2011, 'wins': 37, 'losses': 29, 'ot-losses': 16, 'win%': 0.451, 'gf': 202, 'ga': 226, 'gd': -24}
+{'name': 'Carolina Hurricanes', 'year': 2011, 'wins': 33, 'losses': 33, 'ot-losses': 16, 'win%': 0.402, 'gf': 213, 'ga': 243, 'gd': -30}
+{'name': 'Columbus Blue Jackets', 'year': 2011, 'wins': 29, 'losses': 46, 'ot-losses': 7, 'win%': 0.354, 'gf': 202, 'ga': 262, 'gd': -60}
+{'name': 'Chicago Blackhawks', 'year': 2011, 'wins': 45, 'losses': 26, 'ot-losses': 11, 'win%': 0.549, 'gf': 248, 'ga': 238, 'gd': 10}
+{'name': 'Colorado Avalanche', 'year': 2011, 'wins': 41, 'losses': 35, 'ot-losses': 6, 'win%': 0.5, 'gf': 208, 'ga': 220, 'gd': -12}
+{'name': 'Dallas Stars', 'year': 2011, 'wins': 42, 'losses': 35, 'ot-losses': 5, 'win%': 0.512, 'gf': 211, 'ga': 222, 'gd': -11}
+{'name': 'Detroit Red Wings', 'year': 2011, 'wins': 48, 'losses': 28, 'ot-losses': 6, 'win%': 0.585, 'gf': 248, 'ga': 203, 'gd': 45}
+{'name': 'Edmonton Oilers', 'year': 2011, 'wins': 32, 'losses': 40, 'ot-losses': 10, 'win%': 0.39, 'gf': 212, 'ga': 239, 'gd': -27}
+{'name': 'Florida Panthers', 'year': 2011, 'wins': 38, 'losses': 26, 'ot-losses': 18, 'win%': 0.463, 'gf': 203, 'ga': 227, 'gd': -24}
+{'name': 'Los Angeles Kings', 'year': 2011, 'wins': 40, 'losses': 27, 'ot-losses': 15, 'win%': 0.488, 'gf': 194, 'ga': 179, 'gd': 15}
+{'name': 'Minnesota Wild', 'year': 2011, 'wins': 35, 'losses': 36, 'ot-losses': 11, 'win%': 0.427, 'gf': 177, 'ga': 226, 'gd': -49}
+{'name': 'Montreal Canadiens', 'year': 2011, 'wins': 31, 'losses': 35, 'ot-losses': 16, 'win%': 0.378, 'gf': 212, 'ga': 226, 'gd': -14}
+{'name': 'Nashville Predators', 'year': 2011, 'wins': 48, 'losses': 26, 'ot-losses': 8, 'win%': 0.585, 'gf': 237, 'ga': 210, 'gd': 27}
+{'name': 'New Jersey Devils', 'year': 2011, 'wins': 48, 'losses': 28, 'ot-losses': 6, 'win%': 0.585, 'gf': 228, 'ga': 209, 'gd': 19}
+{'name': 'New York Islanders', 'year': 2011, 'wins': 34, 'losses': 37, 'ot-losses': 11, 'win%': 0.415, 'gf': 203, 'ga': 255, 'gd': -52}
+{'name': 'New York Rangers', 'year': 2011, 'wins': 51, 'losses': 24, 'ot-losses': 7, 'win%': 0.622, 'gf': 226, 'ga': 187, 'gd': 39}
+{'name': 'Ottawa Senators', 'year': 2011, 'wins': 41, 'losses': 31, 'ot-losses': 10, 'win%': 0.5, 'gf': 249, 'ga': 240, 'gd': 9}
+{'name': 'Philadelphia Flyers', 'year': 2011, 'wins': 47, 'losses': 26, 'ot-losses': 9, 'win%': 0.573, 'gf': 264, 'ga': 232, 'gd': 32}
+{'name': 'Phoenix Coyotes', 'year': 2011, 'wins': 42, 'losses': 27, 'ot-losses': 13, 'win%': 0.512, 'gf': 216, 'ga': 204, 'gd': 12}
+{'name': 'Pittsburgh Penguins', 'year': 2011, 'wins': 51, 'losses': 25, 'ot-losses': 6, 'win%': 0.622, 'gf': 282, 'ga': 221, 'gd': 61}
+{'name': 'San Jose Sharks', 'year': 2011, 'wins': 43, 'losses': 29, 'ot-losses': 10, 'win%': 0.524, 'gf': 228, 'ga': 210, 'gd': 18}
+{'name': 'St. Louis Blues', 'year': 2011, 'wins': 49, 'losses': 22, 'ot-losses': 11, 'win%': 0.598, 'gf': 210, 'ga': 165, 'gd': 45}
+{'name': 'Tampa Bay Lightning', 'year': 2011, 'wins': 38, 'losses': 36, 'ot-losses': 8, 'win%': 0.463, 'gf': 235, 'ga': 281, 'gd': -46}
+{'name': 'Toronto Maple Leafs', 'year': 2011, 'wins': 35, 'losses': 37, 'ot-losses': 10, 'win%': 0.427, 'gf': 231, 'ga': 264, 'gd': -33}
+{'name': 'Vancouver Canucks', 'year': 2011, 'wins': 51, 'losses': 22, 'ot-losses': 9, 'win%': 0.622, 'gf': 249, 'ga': 198, 'gd': 51}
+{'name': 'Washington Capitals', 'year': 2011, 'wins': 42, 'losses': 32, 'ot-losses': 8, 'win%': 0.512, 'gf': 222, 'ga': 230, 'gd': -8}
+{'name': 'Winnipeg Jets', 'year': 2011, 'wins': 37, 'losses': 35, 'ot-losses': 10, 'win%': 0.451, 'gf': 225, 'ga': 246, 'gd': -21}
